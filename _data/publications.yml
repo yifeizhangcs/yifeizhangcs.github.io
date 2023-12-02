@@ -1,0 +1,104 @@
+main:
+
+  - title: "Open-ended Commonsense Reasoning with Unrestricted Answer Candidates"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, Wei Cheng, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao
+    conference_short: EMNLP'23 (Findings)
+    conference: The 2023 Conference on Empirical Methods in Natural Language Processing <strong>(Findings of EMNLP)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2310.11672
+    code: https://github.com/lingchen0331/KEEP
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mCIJpiZiV-EJ:scholar.google.com/&output=citation&scisdr=ClE6ZsY_EM7p9YS-jqQ:AFWwaeYAAAAAZQi4lqS_uNwOgKe5av-D7KVE3nE&scisig=AFWwaeYAAAAAZQi4lmHFKa_mILPE4Rb1ojw445I&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/emnlp23.png
+
+  - title: "Deep Graph Representation Learning and Optimization for Influence Maximization"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, My Thai, Lukas Xue, James Song, Meikang Qiu, Liang Zhao
+    conference_short: ICML'23
+    conference: Fortieth International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    pdf: https://proceedings.mlr.press/v202/ling23b/ling23b.pdf
+    code: https://github.com/triplej0079/DeepIM
+    poster: ./assets/files/deepim_poster.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mCIJpiZiV-EJ:scholar.google.com/&output=citation&scisdr=ClE6ZsY_EM7p9YS-jqQ:AFWwaeYAAAAAZQi4lqS_uNwOgKe5av-D7KVE3nE&scisig=AFWwaeYAAAAAZQi4lmHFKa_mILPE4Rb1ojw445I&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/icml.png
+
+  - title: "Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks"
+    authors: Guangji Bai*, <span style="text-decoration:underline">Chen Ling</span>*, Liang Zhao (* denotes equal contribution)
+    conference_short: ICLR'23
+    conference: The 2023 International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2205.10664.pdf
+    code: https://github.com/BaiTheBest/DRAIN
+    bibtex: https://github.com/BaiTheBest/DRAIN
+    image: ./assets/img/iclr23.png
+    notes: Oral Presentation
+
+  - title: "Saliency-Augmented Memory Completion for Continual Learning"
+    authors: Guangji Bai, <span style="text-decoration:underline">Chen Ling</span>, Yuyang Gao, Liang Zhao
+    conference_short: SDM'23
+    conference: The 2023 SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2023.
+    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28
+    code: https://github.com/baithebest/samc
+    bibtex: https://github.com/baithebest/samc
+    image: ./assets/img/sdm23.png
+
+  - title: "DeepGAR: Deep Graph Learning for Analogical Reasoning"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Tanmoy Chowdhury, Junji Jiang, Junxiang Wang, Xuchao Zhang, Haifeng Chen, Liang Zhao
+    conference_short: ICDM'22
+    conference: The IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2211.10821.pdf
+    code: https://github.com/triplej0079/DeepGAR
+    bibtex: https://github.com/triplej0079/DeepGAR
+    image: ./assets/img/icdm22.png
+
+  - title: "Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, Zhao Liang
+    conference_short: KDD'22
+    conference: The 28th ACM SIGKDD conference on knowledge discovery and data mining <strong>(KDD)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2206.12327.pdf
+    code: https://github.com/triplej0079/SLVAE
+    slides: ./assets/files/SL-VAE.pdf
+    bibtex: https://github.com/triplej0079/SLVAE
+    image: ./assets/img/kdd22.png
+
+  - title: "STGEN: Deep Continuous-time Spatiotemporal Graph Generation"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Hengning Cao, Liang Zhao
+    conference_short: ECML-PKDD'22
+    conference: The 2022 European Conference on Machine Learning and Principles of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-26409-2_21
+    code: github.com/lingchen0331/STGEN
+    bibtex: github.com/lingchen0331/STGEN
+    image: ./assets/img/ecmlpkdd.png
+
+  - title: "Deep Generation of Heterogeneous Networks"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Carl Yang, Liang Zhao
+    conference_short: ICDM'21
+    conference: The IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2206.12336.pdf
+    code: https://github.com/lingchen0331/HGEN
+    bibtex: https://ieeexplore.ieee.org/abstract/document/9679028
+    image: ./assets/img/icdm21.png
+    notes: Best Paper Candidate
+
+  - title: "TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints"
+    authors: Liming Zhang, Liang Zhao, Shan Qin, Dieter Pfoser, <span style="text-decoration:underline">Chen Ling</span>
+    conference_short: TheWebConf'21
+    conference: The Web Conference <strong>(theWebConf)</strong>, 2021.
+    pdf: https://par.nsf.gov/servlets/purl/10291637
+    code: https://github.com/tongjiyiming/TGGAN
+    bibtex: https://github.com/tongjiyiming/TGGAN
+    image: ./assets/img/www21.png
+
+  - title: "On Forecasting Dynamics in Online Discussion Forums"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Di Cui, Guangmo Tong, Jianming Zhu
+    conference_short: ICME'21
+    conference: The IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9428382
+    code: https://ieeexplore.ieee.org/abstract/document/9428382
+    bibtex: https://ieeexplore.ieee.org/abstract/document/9428382
+    image: ./assets/img/icme21.png
+
+  - title: "Nestpp: Modeling Thread Dynamics in Online Discussion Forums"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Guangmo Tong, Mozi Chen
+    conference_short: HyperText'20
+    conference: The 31st ACM conference on hypertext and social media <strong>(HT)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2003.06051.pdf
+    code: https://github.com/lingchen0331/NesTPP
+    bibtex: https://github.com/lingchen0331/NesTPP
+    image: ./assets/img/ht20.png
