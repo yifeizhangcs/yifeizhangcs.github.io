@@ -3,7 +3,7 @@ main:
   - title: "MAGI: Multi-Annotated Explanation-Guided Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, Yuyang Gao, Bo Pan, Xiaofeng Yang, Liang Zhao
     conference_short: ICCV'23
-    conference: The IEEE/CVF International Conference on Computer Vision <strong>(ICML)</strong>, 2023.
+    conference: The IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf
     code: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
