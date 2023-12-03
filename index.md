@@ -26,3 +26,5 @@ I have been actively looking for *research scientist* or *machine learning engin
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/awards.md %}
