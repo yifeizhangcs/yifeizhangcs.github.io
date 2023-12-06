@@ -17,7 +17,7 @@ I have been actively looking for *research scientist* or *data scientist* intern
 - **Natural Language Processing:** Applications of Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
-- **[Nov. 2023]** Our work about [datasets and benchmarks for visual explanation](https://xaidataset.github.io/) is available online!
+- **[Nov. 2023]** Our work about [Datasets and Benchmarks for Visual Explanation](https://xaidataset.github.io/) is available online!
 - **[Oct. 2023]** Our paper about [Visual Attention-Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is available on Arxiv!
 - **[Aug. 2023]** Taken Reviewer Invitations for IEEE Transactions on Neural Networks and Learning Systems.
 - **[Jul. 2023]** One first-author paper is accepted by ICCV 2023!
