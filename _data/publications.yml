@@ -5,8 +5,6 @@ main:
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2310.08537.pdf
-    # code: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/benchmark.png
 
     - title: "Visual Attention-Prompted Prediction and Learning"
@@ -14,8 +12,6 @@ main:
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2310.08420.pdf
-    # code: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/visual_prompt.png
 
 
