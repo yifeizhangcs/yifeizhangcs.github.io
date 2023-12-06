@@ -8,7 +8,7 @@ main:
     image: ./assets/img/benchmark.png
 
   - title: "Visual Attention-Prompted Prediction and Learning"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2310.08420.pdf
