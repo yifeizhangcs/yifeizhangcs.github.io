@@ -28,3 +28,6 @@ I have been actively looking for *research scientist* or *data scientist* intern
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/awards.md %}
+
+{% include_relative _includes/softwares.md %}
+
