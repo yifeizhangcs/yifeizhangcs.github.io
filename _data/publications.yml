@@ -1,18 +1,18 @@
 main:
 
+  - title: "Visual Attention-Prompted Prediction and Learning"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Siyi Gu, Guangji Bai, Meikang Qiu, Xiaofeng Yang, Liang Zhao
+    conference_short: IJCAI' 24
+    conference: International Joint Conference on Artificial  Intelligence <strong>(IJCAI)<strong>, 2024.
+    pdf: https://arxiv.org/pdf/2310.08420.pdf
+    image: ./assets/img/visual_prompt.png
+
   - title: "XAI Benchmark for Visual Explanation"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, James Song, Bo Pan, Guangji Bai, Liang Zhao
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2310.08537.pdf
     image: ./assets/img/benchmark.png
-
-  - title: "Visual Attention-Prompted Prediction and Learning"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/pdf/2310.08420.pdf
-    image: ./assets/img/visual_prompt.png
 
   - title: "MAGI: Multi-Annotated Explanation-Guided Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, Yuyang Gao, Bo Pan, Xiaofeng Yang, Liang Zhao
