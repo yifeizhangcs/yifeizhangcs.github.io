@@ -8,9 +8,25 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
+<!--     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=35%">
+    {% endif %} -->
+
+    {% if link.image %} 
+    <style>
+        .teaser {
+            width: 120px;
+            height: 35%;
+            object-fit: contain; /* This makes sure the image is scaled properly. */
+            padding: 10px; /* This adds padding around the image. */
+            box-sizing: border-box; /* This makes sure the padding is included in the width and height. */
+        }
+    </style>
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
     {% endif %}
+
+
+    
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
