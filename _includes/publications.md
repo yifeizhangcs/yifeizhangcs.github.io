@@ -8,35 +8,9 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-<!--     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=35%">
-    {% endif %} -->
-
-    {% if link.image %}
-    <style>
-        .teaser {
-            max-width: 120px;
-            height: auto;
-            max-height: 35vh; /* Adjust the value as per the parent container's height */
-            display: block; /* Change the default alignment */
-            margin: auto; /* Center the image */
-        }
-        .padded {
-            padding: 10px; /* Example padding */
-        }
-    </style>
-    
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" id="dynamicPadding" onload="adjustPadding(this)">
-    
-    <script>
-    function adjustPadding(image) {
-        if (image.naturalWidth < 120 || image.naturalHeight < image.parentElement.offsetHeight * 0.35) {
-            image.classList.add('padded');
-        }
-    }
-    </script>
-    {% endif %}
-    
+    {% if link.image %} 
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% endif %}    
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
