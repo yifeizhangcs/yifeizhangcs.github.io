@@ -19,8 +19,8 @@
 }
 
 .img-wrapper {
-  width: 120px; /* or the width you prefer */
-  height: 120px; /* this should be equal to the width for a square aspect ratio */
+  width: 100px; /* or the width you prefer */
+  height: 40px; /* this should be equal to the width for a square aspect ratio */
   background-color: white; /* for white padding */
   background-position: center center;
   background-repeat: no-repeat;
