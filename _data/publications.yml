@@ -5,6 +5,7 @@ main:
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/abs/2401.00625
+    website: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
 
   - title: "XAI Benchmark for Visual Explanation"
