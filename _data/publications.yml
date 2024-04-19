@@ -1,5 +1,12 @@
 main:
 
+  - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
+    authors: <span style="text-decoration:underline">Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2401.00625
+    image: ./assets/img/beyond_efficiency_survey.png
+
   - title: "XAI Benchmark for Visual Explanation"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, James Song, Bo Pan, Guangji Bai, Liang Zhao
     conference_short: Arxiv
