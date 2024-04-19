@@ -12,20 +12,30 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=35%">
     {% endif %} -->
 
-    {% if link.image %} 
+    {% if link.image %}
     <style>
         .teaser {
-            width: 120px;
-            height: 35%;
-            object-fit: contain; /* This makes sure the image is scaled properly. */
-            padding: 10px; /* This adds padding around the image. */
-            box-sizing: border-box; /* This makes sure the padding is included in the width and height. */
+            max-width: 120px;
+            height: auto;
+            max-height: 35vh; /* Adjust the value as per the parent container's height */
+            display: block; /* Change the default alignment */
+            margin: auto; /* Center the image */
+        }
+        .padded {
+            padding: 10px; /* Example padding */
         }
     </style>
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+    
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" id="dynamicPadding" onload="adjustPadding(this)">
+    
+    <script>
+    function adjustPadding(image) {
+        if (image.naturalWidth < 120 || image.naturalHeight < image.parentElement.offsetHeight * 0.35) {
+            image.classList.add('padded');
+        }
+    }
+    </script>
     {% endif %}
-
-
     
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
