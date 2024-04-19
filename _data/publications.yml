@@ -13,6 +13,7 @@ main:
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2310.08537.pdf
+    page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
   - title: "Visual Attention-Prompted Prediction and Learning"
