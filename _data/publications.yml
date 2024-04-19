@@ -1,7 +1,7 @@
 main:
 
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
-    authors: <span style="text-decoration:underline">Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
+    authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/abs/2401.00625
