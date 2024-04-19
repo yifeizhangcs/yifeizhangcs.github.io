@@ -8,14 +8,8 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-<!--     {% if link.image %} 
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}  -->
-
     {% if link.image %} 
-      <div style="width: 100px; height: 40px; overflow: hidden;">
-        <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: 100%; object-fit: contain;">
-      </div>
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%;object-fit: contain;">
     {% endif %}
     
     {% if link.conference_short %} 
