@@ -35,7 +35,7 @@ main:
   - title: "STES: A Spatiotemporal Explanation Supervision Framework"
     authors: Dazhou Yu, Binbin Chen, Yun Li, Suman Dhaka, <span style="text-decoration:underline">Yifei Zhang</span>, Zhenke Liu, Minxing Zhang, Jie Zhang, Liang Zhao
     conference_short: SDM' 24
-    conference: SIAM Conference on Data Mining <strong>(SDM)</strong>, 2024.
+    conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
     pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
     code: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
     bibtex: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
