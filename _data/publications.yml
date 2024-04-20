@@ -25,6 +25,15 @@ main:
     bibtex: https://arxiv.org/pdf/2310.08420.pdf
     image: ./assets/img/visual_prompt.png
 
+  - title: "STES: A Spatiotemporal Explanation Supervision Framework"
+    authors: Dazhou Yu, Binbin Chen, Yun Li, Suman Dhaka, <span style="text-decoration:underline">Yifei Zhang</span>, Zhenke Liu, Minxing Zhang, Jie Zhang, Liang Zhao
+    conference_short: SDM' 24
+    conference: SIAM Conference on Data Mining <strong>(SDM)</strong>, 2024.
+    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
+    code: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
+    bibtex: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
+    image: ./assets/img/stes.png
+
   - title: "MAGI: Multi-Annotated Explanation-Guided Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, Yuyang Gao, Bo Pan, Xiaofeng Yang, Liang Zhao
     conference_short: ICCV'23
