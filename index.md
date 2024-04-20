@@ -14,7 +14,7 @@ I have been actively looking for *research scientist* or *data scientist* intern
 
 - **Explainable AI:** Visual Explanation-guided Learning (Evaluating and Correcting the Reasoning of AI models)
 - **Machine Learning:** Weakly-Supervised Learning, Multi-modal Learning
-- **Natural Language Processing:** Applications of Large Language Model, Explanation-guided Learning with Language Model
+- **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
 - **[Apr. 2024]** One first-author paper [Visual Attention-Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
