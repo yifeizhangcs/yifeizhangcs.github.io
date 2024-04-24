@@ -23,12 +23,12 @@ main:
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
-  - title: "Visual Attention-Prompted Prediction and Learning"
+  - title: "Visual Attention Prompted Prediction and Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Siyi Gu, Guangji Bai, Meikang Qiu, Xiaofeng Yang, Liang Zhao
     conference_short: IJCAI' 24
     conference: International Joint Conference on Artificial  Intelligence <strong>(IJCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.08420.pdf
-    code: https://arxiv.org/pdf/2310.08420.pdf
+    code: https://github.com/yifeizhangcs/visual-attention-prompt
     bibtex: https://arxiv.org/pdf/2310.08420.pdf
     image: ./assets/img/ijcai24.png
 
