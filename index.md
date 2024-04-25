@@ -17,7 +17,7 @@ I have been actively looking for *research scientist* or *data scientist* intern
 - **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
-- **[Apr. 2024]** One first-author paper [Visual Attention-Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
+- **[Apr. 2024]** One first-author paper [Visual Attention Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
 - **[Apr. 2024]** Taken on the role of Publicity Chair for the ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems ([DeepSpatial’24](https://deepspatial2024.github.io/))
 - **[Jan. 2024]** Our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) is available on Arxiv!
 - **[Dec. 2023]** One co-author paper is accepted by SDM 2024!
