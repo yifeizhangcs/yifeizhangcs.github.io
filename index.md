@@ -8,7 +8,7 @@ Welcome! I'm Yifei Zhang, a second-year Ph.D. student in Computer Science at [Em
 
 My research encompasses Explainable AI, Natural Language Processing, and Applied Machine Learning. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the data science field.
 
-I have been actively looking for *research scientist* or *data scientist* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>. Feel free to reach out if there are any opportunities!
+~~I have been actively looking for *research scientist* or *data scientist* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>. Feel free to reach out if there are any opportunities!~~
 
 ## Research Interests
 
