@@ -8,13 +8,6 @@ main:
     page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
 
-  - title: "ELAD: Explanation-Guided Large Language Models Active Distillation"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/pdf/2402.13098v1.pdf
-    image: ./assets/img/elad.png
-
   - title: "XAI Benchmark for Visual Explanation"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Siyi Gu, James Song, Bo Pan, Guangji Bai, Liang Zhao
     conference_short: Arxiv
@@ -22,6 +15,13 @@ main:
     pdf: https://arxiv.org/pdf/2310.08537.pdf
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
+
+  - title: "ELAD: Explanation-Guided Large Language Models Active Distillation"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao
+    conference_short: ACL' 24
+    conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL-Findings)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2402.13098v1.pdf
+    image: ./assets/img/elad.png
 
   - title: "Visual Attention Prompted Prediction and Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Siyi Gu, Guangji Bai, Meikang Qiu, Xiaofeng Yang, Liang Zhao
