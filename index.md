@@ -17,8 +17,8 @@ I have been actively looking for *research scientist* or *applied scientist* int
 - **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
-
-- **[May. 2024]** I will join Amazon AGI team as a Research Scientist Intern at Boston in summer 2024!
+- **[May. 2024]** One first-author paper accepted by Findings of ACL 2024, and one co-authored paper accepted by KDD 2024!
+- **[May. 2024]** I will join *Amazon* AGI team as a Research Scientist Intern at Boston in summer 2024!
 - **[Apr. 2024]** One first-author paper [Visual Attention Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
 - **[Apr. 2024]** Taken on the role of Publicity Chair for the ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems ([DeepSpatial’24](https://deepspatial2024.github.io/))
 - **[Jan. 2024]** Our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) is available on Arxiv!
