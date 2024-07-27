@@ -17,6 +17,7 @@ I have been actively looking for *research scientist* or *applied scientist* int
 - **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
+- **[Jul. 2024]** One co-authored paper is accepted by CIKM 2024!
 - **[May. 2024]** One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!
 - **[May. 2024]** I will join *Amazon* AGI team as a Research Scientist Intern at Boston in summer 2024!
 - **[Apr. 2024]** One first-author paper [Visual Attention Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
