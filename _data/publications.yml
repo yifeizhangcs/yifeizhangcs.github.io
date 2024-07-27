@@ -37,7 +37,6 @@ main:
     conference: International Joint Conference on Artificial  Intelligence <strong>(IJCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.08420.pdf
     code: https://github.com/yifeizhangcs/visual-attention-prompt
-    bibtex: https://arxiv.org/pdf/2310.08420.pdf
     image: ./assets/img/ijcai24.png
 
   - title: "STES: A Spatiotemporal Explanation Supervision Framework"
@@ -45,8 +44,6 @@ main:
     conference_short: SDM' 24
     conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
     pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
-    code: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
-    bibtex: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.9
     image: ./assets/img/stes.png
 
   - title: "MAGI: Multi-Annotated Explanation-Guided Learning"
@@ -54,8 +51,6 @@ main:
     conference_short: ICCV'23
     conference: The IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf
-    code: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:i0U1sKQcPLkJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXRElM:AFWwaeYAAAAAZWvXClPp79XVHpsrY1LVm1HvZh8&scisig=AFWwaeYAAAAAZWvXCvjl3xFaPzYOtPLbXx6TKAw&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/iccv23.png
 
   - title: "ESSA: Explanation Iterative Supervision via Saliency-guided Data Augmentation"
@@ -63,8 +58,6 @@ main:
     conference_short: KDD'23
     conference: The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
     pdf: https://dl.acm.org/doi/abs/10.1145/3580305.3599336
-    code: https://scholar.googleusercontent.com/scholar.bib?q=info:Zskr_QZFzbgJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXQFQk:AFWwaeYAAAAAZWvWDQn6V3SUAO_bvv-XGIiZJNM&scisig=AFWwaeYAAAAAZWvWDfKqZPZxK4HjywhwKzBpEGo&scisf=4&ct=citation&cd=-1&hl=en
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Zskr_QZFzbgJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEJ3T5PXQFQk:AFWwaeYAAAAAZWvWDQn6V3SUAO_bvv-XGIiZJNM&scisig=AFWwaeYAAAAAZWvWDfKqZPZxK4HjywhwKzBpEGo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/kdd23.png
 
 
