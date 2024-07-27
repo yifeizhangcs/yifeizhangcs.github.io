@@ -16,6 +16,15 @@ main:
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
+  - title: "Distilling Large Language Models for Text-Attributed Graph Learning"
+    authors: Bo Pan, Zheng Zhang, <span style="text-decoration:underline">Yifei Zhang</span>, Yuntong Hu, Liang Zhao
+
+    conference_short: CIKM' 24
+    conference: The 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
+    pdf: https://arxiv.org/pdf/2402.12022
+    page: https://arxiv.org/pdf/2402.12022
+    image: ./assets/img/distilltag.png
+
   - title: "ELAD: Explanation-Guided Large Language Models Active Distillation"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao
     conference_short: ACL' 24
