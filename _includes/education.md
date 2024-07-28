@@ -7,7 +7,7 @@
         </td>
         <td>
             <br>
-            <b>Emory University</b>, 2022.08-2026.05 (expected)
+            <b>Emory University</b>, 2022.08-
             <br>
             Ph.D. in Computer Science
         </td>
