@@ -1,7 +1,7 @@
 ## Education Experience
 <table frame=void rules=none>
     <tr>
-        <td width="12%">
+        <td width="13%">
             <br>
             <img src="../assets/img/emory.png">
         </td>
