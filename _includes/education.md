@@ -7,9 +7,7 @@
         </td>
         <td>
             <br>
-            <b> Emory University</b>
-            <br>
-            2022.08-2026.05 (expected)
+            <b>Emory University</b>, 2022.08-2026.05 (expected)
             <br>
             Ph.D. in Computer Science
         </td>
@@ -19,9 +17,7 @@
             <img src="../assets/img/columbia.png">
         </td>
         <td>
-            <b> Columbia University</b>
-            <br>
-            2020.09-2022.02
+            <b>Columbia University</b>, 2020.09-2022.02
             <br>
             M.S. in Data Science
         </td>
@@ -31,9 +27,7 @@
             <img src="../assets/img/duke.png">
         </td>
         <td>
-            <b> Duke University</b>
-            <br>
-            2019.08-2020.05
+            <b>Duke University</b>, 2019.08-2020.05
             <br>
             Master of Engineering Management
         </td>
@@ -43,11 +37,10 @@
             <img src="../assets/img/dut.png">
         </td>
         <td>
-            <b> Dalian University of Technology</b>
-            <br>
-            2015.09-2019.06
+            <b>Dalian University of Technology</b>, 2015.09-2019.06
             <br>
             B.E. in Engineering Mechanics
         </td>
     </tr>
 </table>
+
