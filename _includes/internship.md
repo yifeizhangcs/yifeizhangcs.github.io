@@ -1,7 +1,7 @@
 ## Internship Experience
 
 <table frame="void" rules="none">
-    <tr style="height: 150px; vertical-align: top;"> 
+    <tr style="height: 60px; vertical-align: top;">
         <td width="15%">
             <img src="../assets/img/amazon.png" style="width: 100px; height: auto;">
         </td>
@@ -11,7 +11,7 @@
             Research Scientist Intern
         </td>
     </tr>
-    <tr style="height: 150px; vertical-align: top;"> 
+    <tr style="height: 60px; vertical-align: top;">
         <td width="15%">
             <img src="../assets/img/guotai_junan.png" style="width: 100px; height: auto;">
         </td>
@@ -21,7 +21,7 @@
             Equity Research Intern
         </td>
     </tr>
-    <tr style="height: 150px; vertical-align: top;"> 
+    <tr style="height: 60px; vertical-align: top;">
         <td width="15%">
             <img src="../assets/img/cdb.png" style="width: 100px; height: auto;">
         </td>
