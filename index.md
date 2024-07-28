@@ -31,6 +31,8 @@ I have been actively looking for *research scientist* or *applied scientist* int
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/education.md %}
+
 {% include_relative _includes/internship.md %}
 
 {% include_relative _includes/services.md %}
