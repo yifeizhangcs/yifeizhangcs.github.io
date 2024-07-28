@@ -7,9 +7,7 @@
         </td>
         <td>
             <br>
-            <b> Amazon AGI</b>
-            <br>
-            2024.06-2024.09
+            <b>Amazon AGI</b>, 2024.06-2024.09
             <br>
             Research Scientist Intern
         </td>
@@ -21,9 +19,7 @@
         </td>
         <td>
             <br>
-            <b> Guotai Junan Securities</b>
-            <br>
-            2018.12-2019.03
+            <b>Guotai Junan Securities</b>, 2018.12-2019.03
             <br>
             Equity Research Intern
         </td>
@@ -35,12 +31,11 @@
         </td>
         <td>
             <br>
-            <b> China Development Bank</b>
-            <br>
-            2018.01-2018.03
+            <b>China Development Bank</b>, 2018.01-2018.03
             <br>
             Risk Management Intern
         </td>
     </tr>
 </table>
+
 
