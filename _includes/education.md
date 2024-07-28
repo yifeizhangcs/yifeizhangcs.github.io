@@ -13,7 +13,7 @@
         </td>
     </tr>
     <tr>
-        <td width="12%">
+        <td width="13%">
             <img src="../assets/img/columbia.png">
         </td>
         <td>
@@ -23,7 +23,7 @@
         </td>
     </tr>
     <tr>
-        <td width="12%">
+        <td width="13%">
             <img src="../assets/img/duke.png">
         </td>
         <td>
@@ -33,13 +33,13 @@
         </td>
     </tr>
     <tr>
-        <td width="12%">
+        <td width="13%">
             <img src="../assets/img/dut.png">
         </td>
         <td>
             <b>Dalian University of Technology</b>, 2015.09-2019.06
             <br>
-            B.E. in Engineering Mechanics
+            B.E. in Engineering Mechanics (Excellence Program)
         </td>
     </tr>
 </table>
