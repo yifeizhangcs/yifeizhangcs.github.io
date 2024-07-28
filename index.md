@@ -13,7 +13,7 @@ I have been actively looking for *research scientist* or *applied scientist* int
 ## Research Interests
 
 - **Explainable AI:** Visual Explanation-guided Learning (Evaluating and Correcting the Reasoning of AI models)
-- **Machine Learning:** Weakly-Supervised Learning, Multi-modal Learning
+- **Machine Learning:** Weakly-Supervised Learning, Multi-modal Learning, Medical AI
 - **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
