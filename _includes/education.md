@@ -1,7 +1,7 @@
 ## Education Experience
 <table frame=void rules=none>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <br>
             <img src="../assets/img/emory.png">
         </td>
@@ -13,7 +13,7 @@
         </td>
     </tr>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <img src="../assets/img/columbia.png">
         </td>
         <td>
@@ -23,7 +23,7 @@
         </td>
     </tr>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <img src="../assets/img/duke.png">
         </td>
         <td>
@@ -33,7 +33,7 @@
         </td>
     </tr>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <img src="../assets/img/dut.png">
         </td>
         <td>
