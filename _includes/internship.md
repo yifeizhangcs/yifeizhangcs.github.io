@@ -1,7 +1,46 @@
 ## Internship Experience
-<ul style="margin:0 0 10px; list-style-type: none;">
-  <li>Amazon AGI, Research Scientist Intern, Jun. 2024 - Sep. 2024</li>
-  <li>Guotai Junan Securities, Equity Research Intern, Dec. 2018 - Mar. 2019</li>
-  <li>China Development Bank, Risk Management Intern, Jan. 2018 - Mar. 2018</li>
-</ul>
+<table frame=void rules=none>
+    <tr>
+        <td width="15%">
+            <br>
+            <img src="../assets/img/amazon.png">
+        </td>
+        <td>
+            <br>
+            <b> Amazon AGI</b>
+            <br>
+            2024.06-2024.09
+            <br>
+            Research Scientist Intern
+        </td>
+    </tr>
+    <tr>
+        <td width="15%">
+            <br>
+            <img src="../assets/img/guotai_junan.png">
+        </td>
+        <td>
+            <br>
+            <b> Guotai Junan Securities</b>
+            <br>
+            2018.12-2019.03
+            <br>
+            Equity Research Intern
+        </td>
+    </tr>
+    <tr>
+        <td width="15%">
+            <br>
+            <img src="../assets/img/cdb.png">
+        </td>
+        <td>
+            <br>
+            <b> China Development Bank</b>
+            <br>
+            2018.01-2018.03
+            <br>
+            Risk Management Intern
+        </td>
+    </tr>
+</table>
 
