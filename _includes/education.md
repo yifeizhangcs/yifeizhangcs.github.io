@@ -17,7 +17,7 @@
             <img src="../assets/img/columbia.png">
         </td>
         <td>
-            <b>Columbia University</b>, 2020.09-2022.02
+            <b>Columbia University</b>, 2020.09-2021.12
             <br>
             M.S. in Data Science
         </td>
