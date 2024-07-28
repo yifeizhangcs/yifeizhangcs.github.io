@@ -1,7 +1,7 @@
 ## Internship Experience
 <table frame=void rules=none>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <br>
             <img src="../assets/img/amazon.png">
         </td>
@@ -13,7 +13,7 @@
         </td>
     </tr>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <br>
             <img src="../assets/img/guotai_junan.png">
         </td>
@@ -25,7 +25,7 @@
         </td>
     </tr>
     <tr>
-        <td width="15%">
+        <td width="12%">
             <br>
             <img src="../assets/img/cdb.png">
         </td>
