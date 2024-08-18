@@ -27,7 +27,7 @@ main:
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao
     conference_short: ACL' 24
     conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL-Findings)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2402.13098v1.pdf
+    pdf: https://aclanthology.org/2024.findings-acl.264/
     poster: ./assets/files/elad_poster.pdf
     image: ./assets/img/elad.png
 
