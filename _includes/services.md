@@ -2,6 +2,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+    <li><a href="https://dl.acm.org/journal/tist"><autocolor>ACM Transactions on Intelligent Systems and Technology</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE Transactions on Neural Networks and Learning Systems</autocolor></a></li>
   <li><a href="https://aapm.onlinelibrary.wiley.com/journal/15269914"><autocolor>Journal of Applied Clinical Medical Physics</autocolor></a></li>
 
