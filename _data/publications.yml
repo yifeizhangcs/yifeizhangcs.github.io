@@ -16,6 +16,13 @@ main:
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
+  - title: "DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation"
+    authors: Qilong Zhao, <span style="text-decoration:underline">Yifei Zhang</span>, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao
+    conference_short: KDD'24
+    conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2403.10831
+    image: ./assets/img/due.png
+
   - title: "Distilling Large Language Models for Text-Attributed Graph Learning"
     authors: Bo Pan, Zheng Zhang, <span style="text-decoration:underline">Yifei Zhang</span>, Yuntong Hu, Liang Zhao
     conference_short: CIKM' 24
