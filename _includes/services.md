@@ -17,5 +17,5 @@
 <h4 style="margin:0 10px 0;">Workshop Organizers</h4>
 
 <ul style="margin:0 0 20px;">
-    <li>Publicity Chair for 4th ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (<a href="https://deepspatial2024.github.io/">DeepSpatial’24</a>)</li>
+    <li>Publicity Chair for 4th ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (<a href="https://deepspatial2024.github.io/">DeepSpatial’24</a>)</li>            <li>Student Co-organizer for the Foundation Models for Biological Discoveries (<a href="https://llms4science-community.github.io/aaai2025">FM4sBio</a>) workshop at AAAI 2025.</li>    
 </ul>
