@@ -1,5 +1,13 @@
 main:
 
+  - title: "MEGL: Multimodal Explanation-Guided Learning"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>*, Tianxu Jiang*, Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao  (* denotes equal contribution)
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2411.13053
+    page: https://arxiv.org/pdf/2411.13053
+    image: ./assets/img/megl.png
+
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
     conference_short: Arxiv
