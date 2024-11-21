@@ -17,7 +17,7 @@ I have been actively looking for *research scientist* or *applied scientist* int
 - **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
   
 ## News
-- **[Nov. 2024]** Taken on the role of Student Co-organizer for the [Foundation Models for Biological Discoveries (FM4sBio)](https://llms4science-community.github.io/aaai2025) workshop at AAAI 2025.
+- **[Sep. 2024]** Taken on the role of Student Co-organizer for the [Foundation Models for Biological Discoveries (FM4sBio)](https://llms4science-community.github.io/aaai2025) workshop at AAAI 2025.
 - **[Jul. 2024]** One co-authored paper is accepted by CIKM 2024!
 - **[May. 2024]** One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!
 - **[May. 2024]** I will join *Amazon* AGI team as a Research Scientist Intern at Boston in summer 2024!
