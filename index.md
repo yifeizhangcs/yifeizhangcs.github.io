@@ -11,10 +11,8 @@ My research encompasses Explainable AI, Natural Language Processing, and Applied
 I have been actively looking for *research scientist* or *applied scientist* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2025</span>. Feel free to reach out if there are any opportunities!
 
 ## Research Interests
-
-- **Explainable AI:** Visual Explanation-guided Learning (Evaluating and Correcting the Reasoning of AI models)
-- **Machine Learning:** Weakly-Supervised Learning, Multi-modal Learning, Medical AI
-- **Natural Language Processing:** Multimodal Large Language Model, Explanation-guided Learning with Language Model
+- **Explainable AI (XAI):** Visual Explanation-Guided Learning, Explanation-Guided Learning with Language Models
+- **Large Language Model (LLM):** Multimodal LLM, LLM Evaluation, LLM Distillation
   
 ## News
 - **[Sep. 2024]** Taken on the role of Student Co-organizer for the [Foundation Models for Biological Discoveries (FM4sBio)](https://llms4science-community.github.io/aaai2025) workshop at AAAI 2025.
