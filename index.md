@@ -39,6 +39,6 @@ I have been actively looking for *research scientist* or *applied scientist* int
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/awards.md %}
-
+<!--
 {% include_relative _includes/softwares.md %}
-
+-->
