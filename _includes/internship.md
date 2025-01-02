@@ -25,6 +25,7 @@
             </div>
         </td>
     </tr>
+    <!--
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
             <img src="../assets/img/cdb.png" style="width: 50px; height: auto; border: none;">
@@ -37,6 +38,7 @@
             </div>
         </td>
     </tr>
+    -->
 </table>
 
 
