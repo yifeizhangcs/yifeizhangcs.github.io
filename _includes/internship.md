@@ -7,7 +7,7 @@
         </td>
         <td style="border: none; vertical-align: middle;">
             <div>
-                <b>Amazon AGI</b>, 2024.06-2024.09
+                <b>Amazon</b>, 2024.06-2024.09
                 <br>
                 Research Scientist Intern
             </div>
