@@ -13,6 +13,7 @@
 <ul style="margin:0 0 20px;">
     <li>ICLR 2025</li>
     <li>CVPR 2025</li>
+    <li>KDD 2025</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Organizers</h4>
