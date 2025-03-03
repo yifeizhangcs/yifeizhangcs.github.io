@@ -13,7 +13,8 @@
 <ul style="margin:0 0 20px;">
     <li>ICLR 2025</li>
     <li>CVPR 2025</li>
-    <li>KDD 2025</li>
+    <li>KDD 2025 Research Track</li>
+    <li>KDD 2025 Datasets and Benchmarks Track</li>
     <li>ICCV 2025</li>
 </ul>
 
