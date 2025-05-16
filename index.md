@@ -15,17 +15,13 @@ I am actively seeking **Research Scientist** or **Applied Scientist** **full-tim
 - **Large Language Models (LLMs):** Distillation, Multimodal LLMs, LLM Evaluation  
 
 ## News
+- **[May. 2025]** One first-author paper [Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations](https://arxiv.org/abs/2310.08537) is accepted by KDD 2025 Datasets and Benchmarks Track!
 - **[Jan. 2025]** I will rejoin *Amazon* as an *Applied Scientist Intern* in Boston for Summer 2025.
-- **[Sep. 2024]** Taken on the role of Student Co-organizer for the [Foundation Models for Biological Discoveries (FM4sBio)](https://llms4science-community.github.io/aaai2025) workshop at AAAI 2025.
-- **[Jul. 2024]** One co-authored paper is accepted by CIKM 2024!
 - **[May. 2024]** One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!
 - **[May. 2024]** I will join *Amazon* as a *Research Scientist Intern* at Boston in summer 2024!
 - **[Apr. 2024]** One first-author paper [Visual Attention Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
-- **[Apr. 2024]** Taken on the role of Publicity Chair for the ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems ([DeepSpatial’24](https://deepspatial2024.github.io/))
 - **[Jan. 2024]** Our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) is available on Arxiv!
-- **[Dec. 2023]** One co-author paper is accepted by SDM 2024!
 - **[Nov. 2023]** Our work about [Datasets and Benchmarks for Visual Explanation](https://xaidataset.github.io/) is available online!
-- **[Aug. 2023]** Taken Reviewer Invitations for IEEE Transactions on Neural Networks and Learning Systems.
 - **[Jul. 2023]** One first-author paper is accepted by ICCV 2023!
 - **[May. 2023]** One co-first-author paper is accepted by KDD 2023!
 
