@@ -1,6 +1,20 @@
 ## Internship Experience
 
 <table frame="void" rules="none" style="width: 100%; border-collapse: collapse;">
+    
+    <tr style="height: 60px; border: none;">
+        <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
+            <img src="../assets/img/amazon.png" style="width: 50px; height: auto; border: none;">
+        </td>
+        <td style="border: none; vertical-align: middle;">
+            <div>
+                <b>Amazon</b>, 2025.05-
+                <br>
+                Applied Scientist Intern
+            </div>
+        </td>
+    </tr>
+
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
             <img src="../assets/img/amazon.png" style="width: 50px; height: auto; border: none;">
@@ -13,6 +27,7 @@
             </div>
         </td>
     </tr>
+    
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
             <img src="../assets/img/guotai_junan.png" style="width: 50px; height: auto; border: none;">
@@ -25,6 +40,7 @@
             </div>
         </td>
     </tr>
+    
     <!--
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
