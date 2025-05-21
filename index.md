@@ -15,6 +15,8 @@ I am actively seeking **Research Scientist** or **Applied Scientist** **full-tim
 - **Large Language Models (LLMs):** Distillation, Multimodal LLMs, LLM Evaluation  
 
 ## News
+
+- **[May. 2025]** I passed my PhD qualifying examination. Thanks to my qualifying committee, Dr. Wei Jin (committee chair), Dr. Xiaofeng Yang, and Dr. Liang Zhao.
 - **[May. 2025]** One first-author paper [Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations](https://arxiv.org/abs/2310.08537) is accepted by KDD 2025 Datasets and Benchmarks Track!
 - **[Jan. 2025]** I will rejoin *Amazon* as an *Applied Scientist Intern* in Boston for Summer 2025.
 - **[May. 2024]** One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!
