@@ -18,9 +18,9 @@ I am actively seeking **Research Scientist** or **Applied Scientist** **full-tim
 
 - **[May. 2025]** I passed my PhD qualifying examination. Thanks to my qualifying committee, Dr. Wei Jin (committee chair), Dr. Xiaofeng Yang, and Dr. Liang Zhao.
 - **[May. 2025]** One first-author paper [Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations](https://arxiv.org/abs/2310.08537) is accepted by KDD 2025 Datasets and Benchmarks Track!
-- **[Jan. 2025]** I will rejoin *Amazon* as an *Applied Scientist Intern* in Boston for Summer 2025.
+- **[Jan. 2025]** I will rejoin Amazon Alexa AI as an *Applied Scientist Intern* in Boston for Summer 2025.
 - **[May. 2024]** One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!
-- **[May. 2024]** I will join *Amazon* as a *Research Scientist Intern* at Boston in summer 2024!
+- **[May. 2024]** I will join Amazon AGI as a *Research Scientist Intern* at Boston in summer 2024!
 - **[Apr. 2024]** One first-author paper [Visual Attention Prompted Prediction and Learning](https://arxiv.org/abs/2310.08420) is accepted by IJCAI 2024!
 - **[Jan. 2024]** Our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) is available on Arxiv!
 - **[Nov. 2023]** Our work about [Datasets and Benchmarks for Visual Explanation](https://xaidataset.github.io/) is available online!
