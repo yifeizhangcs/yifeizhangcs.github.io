@@ -24,6 +24,13 @@ main:
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
+  - title: "TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models"
+    authors: Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, <span style="text-decoration:underline">Yifei Zhang</span>, Liang Zhao
+    conference_short: ACL'25
+    conference: The 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.15268
+    image: ./assets/img/tagexplainer.png
+
   - title: "DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation"
     authors: Qilong Zhao, <span style="text-decoration:underline">Yifei Zhang</span>, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao
     conference_short: KDD'24
