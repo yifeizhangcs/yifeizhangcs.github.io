@@ -16,7 +16,7 @@
     <li>KDD 2025 Research Track</li>
     <li>KDD 2025 Datasets and Benchmarks Track</li>
     <li>ICCV 2025</li>
-    <li>ACL ARR 2025 May</li>
+    <li>ACL ARR</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Organizers</h4>
