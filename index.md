@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I'm Yifei Zhang, a ~~second~~third-year Ph.D. student in Computer Science at [Emory University](https://www.cs.emory.edu/home/), where I have the fortune of working with [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Before this, I obtained my M.S. degree in Data Science from [Columbia University](https://www.columbia.edu/) and my B.E. degree in Engineering Mechanics from [Dalian University of Technology](https://www.dlut.edu.cn/). Additionally, I earned a Master of Engineering Management degree from [Duke University](https://duke.edu/).
+Welcome! I'm Yifei Zhang, a ~~second~~ ~~third~~ final-year Ph.D. student in Computer Science at [Emory University](https://www.cs.emory.edu/home/), where I have the fortune of working with [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Before this, I obtained my M.S. degree in Data Science from [Columbia University](https://www.columbia.edu/) and my B.E. degree in Engineering Mechanics from [Dalian University of Technology](https://www.dlut.edu.cn/). Additionally, I earned a Master of Engineering Management degree from [Duke University](https://duke.edu/).
 
 My research focuses on **Explainable AI (XAI) and Large Language Models (LLMs)**, with an emphasis on **multimodal learning, model distillation, and evaluation methodologies**. As a Ph.D. student at Emory University, I have contributed to multiple research projects and published in top-tier conferences, continuously pushing the boundaries of AI interpretability and efficiency.
 
