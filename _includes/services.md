@@ -6,6 +6,8 @@
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317"><autocolor>IEEE Transactions on Big Data</autocolor></a></li>
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE Transactions on Neural Networks and Learning Systems</autocolor></a></li>
     <li><a href="https://aapm.onlinelibrary.wiley.com/journal/15269914"><autocolor>Journal of Applied Clinical Medical Physics</autocolor></a></li>
+    <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems With Applications</autocolor></a></li>
+    
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers/Program Committee</h4>
