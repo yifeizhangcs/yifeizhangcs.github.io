@@ -8,7 +8,7 @@ Welcome! I'm Yifei Zhang, a ~~second~~ ~~third~~ final-year Ph.D. student in Com
 
 My research focuses on **Explainable AI (XAI) and Large Language Models (LLMs)**, with an emphasis on **multimodal learning, model distillation, and evaluation methodologies**. As a Ph.D. student at Emory University, I have contributed to multiple research projects and published in top-tier conferences, continuously pushing the boundaries of AI interpretability and efficiency.
 
-I am actively seeking **Research Scientist** or **Applied Scientist** **full-time roles for 2026**. If you have any opportunities, feel free to reach out!
+~~I am actively seeking **Research Scientist** or **Applied Scientist** **full-time roles for 2026**. If you have any opportunities, feel free to reach out!~~
 
 ## Research Interests
 - **Explainable AI (XAI):** Multimodal Explanation-Guided Learning, Visual Explanation-Guided Learning  
