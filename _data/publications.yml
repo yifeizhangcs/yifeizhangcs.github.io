@@ -8,6 +8,13 @@ main:
     page: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
+  - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
+    authors: Yifei Zhang, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-T\"ur, Hari Thadakamalla
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2601.11854
+    image: ./assets/img/atod.png
+
   - title: "MEGL: Multimodal Explanation-Guided Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>*, Tianxu Jiang*, Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao  (* denotes equal contribution)
     conference_short: arXiv
