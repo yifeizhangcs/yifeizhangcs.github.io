@@ -1,17 +1,25 @@
 main:
 
+  - title: "Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Mengdan Zhu, Jian Pei, Liang Zhao
+    conference_short: TechRxiv
+    conference: TechRxiv
+    pdf: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1
+    page: https://github.com/yifeizhangcs/awesome-agentic-commerce
+    image: ./assets/img/a-commerce.png
+
   - title: "MEGL: Multimodal Explanation-Guided Learning"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>*, Tianxu Jiang*, Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao  (* denotes equal contribution)
-    conference_short: Arxiv
-    conference: Arxiv
+    conference_short: arXiv
+    conference: arXiv
     pdf: https://arxiv.org/pdf/2411.13053
     page: https://arxiv.org/pdf/2411.13053
     image: ./assets/img/megl.png
 
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
-    conference_short: Arxiv
-    conference: Arxiv
+    conference_short: arXiv
+    conference: arXiv
     pdf: https://arxiv.org/abs/2401.00625
     page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
