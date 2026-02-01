@@ -9,7 +9,7 @@ main:
     image: ./assets/img/a-commerce.png
 
   - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
-    authors: Yifei Zhang, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
     conference_short: arXiv
     conference: arXiv
     pdf: https://arxiv.org/pdf/2601.11854
