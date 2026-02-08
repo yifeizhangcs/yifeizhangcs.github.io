@@ -35,7 +35,7 @@ main:
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, Guangji Bai, Liang Zhao
     conference_short: KDD'25
     conference: The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2025 (Datasets and Benchmarks Track).
-    pdf: https://arxiv.org/pdf/2310.08537.pdf
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3711896.3737414
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
