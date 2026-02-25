@@ -15,12 +15,15 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers/Program Committee</h4>
 
 <ul style="margin:0 0 20px;">
-    <li>ICLR 2025</li>
-    <li>CVPR 2025</li>
-    <li>KDD 2025 Research Track</li>
-    <li>KDD 2025 Datasets and Benchmarks Track</li>
+    <li>ICLR 2025, 2026</li>
+    <li>CVPR 2025, 2026</li>
+    <li>KDD Research Track 2025, 2026</li>
+    <li>KDD Datasets and Benchmarks Track 2025, 2026</li>
     <li>ICCV 2025</li>
+    <li>ECCV 2026</li>
     <li>ACL ARR</li>
+    <li>BMVC 2026</li>
+    <li>ICLR 2026 Workshop MemAgent</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Organizers</h4>
