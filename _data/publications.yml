@@ -8,21 +8,6 @@ main:
     page: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
-  - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
-    conference_short: ICLRW
-    conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
-    pdf: https://arxiv.org/pdf/2601.11854
-    image: ./assets/img/atod.png
-
-  - title: "MEGL: Multimodal Explanation-Guided Learning"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>*, Tianxu Jiang*, Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao  (* denotes equal contribution)
-    conference_short: arXiv
-    conference: arXiv
-    pdf: https://arxiv.org/pdf/2411.13053
-    page: https://arxiv.org/pdf/2411.13053
-    image: ./assets/img/megl.png
-
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
     conference_short: arXiv
@@ -31,6 +16,13 @@ main:
     page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
 
+  - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
+    conference_short: ICLRW
+    conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
+    pdf: https://arxiv.org/pdf/2601.11854
+    image: ./assets/img/atod.png
+
   - title: "Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, Guangji Bai, Liang Zhao
     conference_short: KDD'25
@@ -38,6 +30,14 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3711896.3737414
     page: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
+
+  - title: "MEGL: Multimodal Explanation-Guided Learning"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>*, Tianxu Jiang*, Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao  (* denotes equal contribution)
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2411.13053
+    page: https://arxiv.org/pdf/2411.13053
+    image: ./assets/img/megl.png
 
   - title: "GraphNarrator: Generating Textual Explanations for Graph Neural Networks"
     authors: Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, <span style="text-decoration:underline">Yifei Zhang</span>, Liang Zhao
