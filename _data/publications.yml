@@ -10,7 +10,7 @@ main:
 
   - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
-    conference_short: ICLR Workshop
+    conference_short: ICLRW
     conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
     pdf: https://arxiv.org/pdf/2601.11854
     image: ./assets/img/atod.png
