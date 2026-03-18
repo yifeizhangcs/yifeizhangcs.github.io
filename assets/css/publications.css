@@ -79,4 +79,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser { border-radius: 12px; box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14); height: 140px; width: 100%; max-width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; background: rgba(255, 255, 255, 0.92); }
+
+@media (max-width: 768px) {
+  .publications ol.bibliography li .abbr { height: auto; }
+  .publications ol.bibliography li .teaser { margin-left: 0; height: auto; max-width: 100%; }
+}

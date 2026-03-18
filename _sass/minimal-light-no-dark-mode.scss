@@ -212,6 +212,79 @@ h1 {
   font-size:28px;
 }
 
+.news-section {
+  margin-bottom: 2rem;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-list li {
+  margin-bottom: 0.85rem;
+  padding: 0.95rem 1.1rem;
+  border: 1px solid rgba(4, 51, 97, 0.12);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 251, 255, 0.96));
+  box-shadow: 0 8px 24px rgba(4, 51, 97, 0.06);
+}
+
+.news-archive {
+  margin-top: 1rem;
+  border: 1px solid rgba(4, 51, 97, 0.12);
+  border-radius: 14px;
+  background: rgba(246, 249, 252, 0.88);
+  overflow: hidden;
+}
+
+.news-archive summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #043361;
+  list-style: none;
+  padding: 0.95rem 1.1rem;
+}
+
+.news-archive summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-archive summary::after {
+  content: "+";
+  float: right;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.news-archive[open] summary::after {
+  content: "-";
+}
+
+.news-list-archive {
+  padding: 0 0.9rem 0.9rem;
+}
+
+.news-list-archive li {
+  margin-bottom: 0.7rem;
+  background: rgba(255, 255, 255, 0.84);
+  box-shadow: none;
+}
+
+.pub-card {
+  gap: 0.5rem;
+  padding: 0.85rem 0.5rem;
+  border-radius: 18px;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.pub-card:hover {
+  transform: translateY(-2px);
+  background: rgba(248, 251, 255, 0.92);
+  box-shadow: 0 12px 30px rgba(4, 51, 97, 0.08);
+}
+
 a {
   color:#39c;
   text-decoration:none;
@@ -219,6 +292,21 @@ a {
 
 a:hover {
   color:#069;
+}
+
+@media (max-width: 768px) {
+  .pub-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .pub-row .col-sm-3,
+  .pub-row .col-sm-9 {
+    max-width: 100%;
+    width: 100%;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
 
 a small {

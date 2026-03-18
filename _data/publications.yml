@@ -1,5 +1,27 @@
 main:
 
+  - title: "EmoLLM: Appraisal-Grounded Cognitive-Emotional Co-Reasoning in Large Language Models"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Mingyang Li, Henry Gao, Liang Zhao
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2603.16553
+    code: https://github.com/yifeizhangcs/EmoLLM
+    image: ./assets/img/emollm.png
+
+  - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
+    conference_short: ICLRW'26
+    conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
+    pdf: https://arxiv.org/pdf/2601.11854
+    image: ./assets/img/atod.png
+
+  - title: "Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT"
+    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Jiashuo Zhang, Mojtaba Safari, Xiaofeng Yang, Liang Zhao
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2511.06625
+    image: ./assets/img/multidisease.png
+
   - title: "Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Mengdan Zhu, Jian Pei, Liang Zhao
     conference_short: TechRxiv
@@ -8,6 +30,14 @@ main:
     page: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
+  - title: "Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation"
+    authors: Mengdan Zhu, Senhao Cheng, Guangji Bai, <span style="text-decoration:underline">Yifei Zhang</span>, Liang Zhao
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/abs/2505.21956
+    code: https://github.com/mengdanzhu/cross-modal-rag
+    image: ./assets/img/cross_modal_rag.png
+
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
     conference_short: arXiv
@@ -15,13 +45,6 @@ main:
     pdf: https://arxiv.org/abs/2401.00625
     page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
-
-  - title: "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems"
-    authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
-    conference_short: ICLRW'26
-    conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
-    pdf: https://arxiv.org/pdf/2601.11854
-    image: ./assets/img/atod.png
 
   - title: "Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, Guangji Bai, Liang Zhao
