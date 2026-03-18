@@ -285,6 +285,32 @@ h1 {
   box-shadow: 0 12px 30px rgba(4, 51, 97, 0.08);
 }
 
+.service-section {
+  margin: 0 0 1.2rem;
+  padding: 0.95rem 1.1rem;
+  border: 1px solid rgba(4, 51, 97, 0.1);
+  border-radius: 14px;
+  background: rgba(249, 251, 254, 0.88);
+}
+
+.service-heading {
+  margin: 0 0 0.45rem !important;
+}
+
+.service-inline {
+  margin: 0;
+  line-height: 1.75;
+}
+
+.service-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.service-list li:last-child {
+  margin-bottom: 0;
+}
+
 a {
   color:#39c;
   text-decoration:none;
