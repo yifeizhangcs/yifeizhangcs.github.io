@@ -16,6 +16,7 @@ My research focuses on **Explainable AI (XAI)**, **AI Agents**, and **Large Lang
 
 <div class="news-section">
   <ul class="news-list">
+    <li><strong>[Mar. 2026]</strong> I successfully defended my Ph.D. dissertation. Many thanks to my dissertation committee: Dr. Liang Zhao, Dr. Wei Jin, Dr. Xiaofeng Yang, and Dr. Fenglong Ma.</li>
     <li><strong>[May. 2025]</strong> I passed my PhD qualifying examination. Thanks to my qualifying committee, Dr. Wei Jin (committee chair), Dr. Xiaofeng Yang, and Dr. Liang Zhao.</li>
     <li><strong>[May. 2025]</strong> One first-author paper <a href="https://arxiv.org/abs/2310.08537" target="_blank" rel="noopener">Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations</a> is accepted by KDD 2025 Datasets and Benchmarks Track!</li>
     <li><strong>[Jan. 2025]</strong> I will rejoin Amazon Alexa AI as an <em>Applied Scientist Intern</em> in Boston for Summer 2025.</li>
