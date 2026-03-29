@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I'm Yifei Zhang, a Ph.D. candidate in Computer Science at [Emory University](https://www.cs.emory.edu/home/), where I am fortunate to be advised by [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Before Emory, I received my M.S. degree in Data Science from [Columbia University](https://www.columbia.edu/), my B.E. degree in Engineering Mechanics from [Dalian University of Technology](https://www.dlut.edu.cn/), and a Master of Engineering Management degree from [Duke University](https://duke.edu/).
+Welcome! I'm Yifei Zhang. I received my Ph.D. in Computer Science from [Emory University](https://www.cs.emory.edu/home/) in March 2026, where I was fortunate to be advised by [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Before Emory, I received my M.S. degree in Data Science from [Columbia University](https://www.columbia.edu/), my B.E. degree in Engineering Mechanics from [Dalian University of Technology](https://www.dlut.edu.cn/), and a Master of Engineering Management degree from [Duke University](https://duke.edu/).
 
 My research focuses on **Explainable AI (XAI)**, **AI Agents**, and **Large Language Models (LLMs)**, with particular interests in **multimodal learning, model distillation, reasoning, and evaluation**. I build methods, agents, and benchmarks that improve the reliability, interpretability, and practical deployment of modern AI systems.
 
