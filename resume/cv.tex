@@ -1,0 +1,254 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage[yyyymmdd,24hr]{datetime}
+\renewcommand{\dateseparator}{-}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex, hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[charter]{mathdesign}
+
+% Datestamp helpers.
+\newcommand{\LongMonth}[1]{%
+\ifcase#1\relax
+\or January%
+\or February%
+\or March%
+\or April%
+\or May%
+\or June%
+\or July%
+\or August%
+\or September%
+\or October%
+\or November%
+\or December%
+\fi}
+\newcommand{\ShortMonth}[1]{%
+\ifcase#1\relax
+\or Jan%
+\or Feb%
+\or Mar%
+\or Apr%
+\or May%
+\or Jun%
+\or Jul%
+\or Aug%
+\or Sep%
+\or Oct%
+\or Nov%
+\or Dec%
+\fi}
+\newcommand{\DatestampYM}[2]{\mbox{\ShortMonth{#2} #1}}
+
+% Macro: NumberedItem.
+\newsavebox{\NumberedItemIndentation}
+\newlength{\NumberedItemIndentationWidth}
+\newcommand{\NumberedItem}[1]{\par%
+\savebox{\NumberedItemIndentation}{{#1}\hspace{0.4em}}%
+\settowidth{\NumberedItemIndentationWidth}{\usebox{\NumberedItemIndentation}}%
+\noindent\hangafter=1\hangindent=\NumberedItemIndentationWidth\ignorespaces%
+\usebox{\NumberedItemIndentation}\ignorespaces}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins.
+\addtolength{\oddsidemargin}{-0.25in}
+\addtolength{\evensidemargin}{-0.25in}
+\addtolength{\textwidth}{0.5in}
+\addtolength{\topmargin}{-0.45in}
+\addtolength{\textheight}{0.9in}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,
+  urlcolor=cyan,
+  pdftitle={Yifei Zhang CV},
+  pdfpagemode=FullScreen,
+}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting.
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+% Custom commands.
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item[]
+  \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+    \hspace{-10pt}\textbf{#1} & #2 \\
+    \hspace{-10pt}\textit{\small #3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.18in, itemsep=2pt, topsep=3pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\shorterSection}[1]{\vspace{-10pt}\section{#1}}
+
+\begin{document}
+
+% Heading.
+\begin{center}
+  {\huge \textbf{Yifei Zhang}} \\[2mm]
+  \small
+  Email: \href{mailto:yifei.zhang2@emory.edu}{yifei.zhang2@emory.edu}
+  $\vert$ Tel: (919) 638-0069
+  $\vert$ Homepage: \href{https://yifeizhangcs.github.io/}{yifeizhangcs.github.io} \\
+  Google Scholar: \href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{y5FkC7cAAAAJ}
+  $\vert$ GitHub: \href{https://github.com/yifeizhangcs}{github.com/yifeizhangcs}
+\end{center}
+\vspace{-2mm}
+\begin{flushright}
+\small Last updated: \today
+\end{flushright}
+\vspace{-4mm}
+
+% Education.
+\shorterSection{Education}
+\small
+\textbf{Ph.D. in Computer Science, Emory University} \hfill {\DatestampYM{2022}{08} -- \DatestampYM{2026}{03}} \\
+\textit{Advisor}: \href{http://cs.emory.edu/~lzhao41/index.htm}{Prof. Liang Zhao} \\
+\textit{Dissertation}: \href{https://etd.library.emory.edu/concern/etds/3197xn83d?locale=en}{Benchmarking, Correcting, and Accelerating AI Reasoning across Diverse Modalities} \\
+\textbf{M.S. in Data Science, Columbia University} \hfill {\DatestampYM{2020}{09} -- \DatestampYM{2021}{12}} \\
+\textbf{Master of Engineering Management, Duke University} \hfill {\DatestampYM{2019}{08} -- \DatestampYM{2020}{05}} \\
+\textbf{B.E. in Engineering Mechanics, Dalian University of Technology} \hfill {\DatestampYM{2015}{09} -- \DatestampYM{2019}{06}}
+\vspace{1.0mm}
+
+% Research interests.
+\shorterSection{Research Interests}
+\small
+\textbf{Explainable AI; AI Agents and Agentic Workflows; Large Language Models; Multimodal Learning and Reasoning; Model Distillation; Evaluation and Benchmarking}
+\vspace{1.0mm}
+
+% Publications.
+\shorterSection{Selected Publications}
+{\small
+\NumberedItem{[arXiv 2026]}
+\textbf{Yifei Zhang}, Mingyang Li, Henry Gao, and Liang Zhao.
+\href{https://arxiv.org/pdf/2603.16553}{\textit{EmoLLM: Appraisal-Grounded Cognitive-Emotional Co-Reasoning in Large Language Models}.}
+
+\NumberedItem{[ICLR Workshop 2026]}
+\textbf{Yifei Zhang}, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-T\"ur, and Hari Thadakamalla.
+\href{https://arxiv.org/pdf/2601.11854}{\textit{ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems}.}
+ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems.
+
+\NumberedItem{[arXiv 2025]}
+\textbf{Yifei Zhang}, Jiashuo Zhang, Mojtaba Safari, Xiaofeng Yang, and Liang Zhao.
+\href{https://arxiv.org/pdf/2511.06625}{\textit{Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT}.}
+
+\NumberedItem{[KDD 2025]}
+\textbf{Yifei Zhang}, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, Guangji Bai, and Liang Zhao.
+\href{https://dl.acm.org/doi/10.1145/3711896.3737414}{\textit{Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations}.}
+The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Datasets and Benchmarks Track.
+
+\NumberedItem{[ACL Findings 2024]}
+\textbf{Yifei Zhang}, Bo Pan, Chen Ling, Yuntong Hu, and Liang Zhao.
+\href{https://aclanthology.org/2024.findings-acl.264.pdf}{\textit{ELAD: Explanation-Guided Large Language Models Active Distillation}.}
+Findings of the 62nd Annual Meeting of the Association for Computational Linguistics.
+
+\NumberedItem{[IJCAI 2024]}
+\textbf{Yifei Zhang}, Bo Pan, Siyi Gu, Guangji Bai, Meikang Qiu, Xiaofeng Yang, and Liang Zhao.
+\href{https://www.ijcai.org/proceedings/2024/0610.pdf}{\textit{Visual Attention Prompted Prediction and Learning}.}
+International Joint Conference on Artificial Intelligence.
+
+\NumberedItem{[ICCV 2023]}
+\textbf{Yifei Zhang}, Siyi Gu, Yuyang Gao, Bo Pan, Xiaofeng Yang, and Liang Zhao.
+\href{https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf}{\textit{MAGI: Multi-Annotated Explanation-Guided Learning}.}
+The IEEE/CVF International Conference on Computer Vision.
+
+\vspace{1mm}
+\textit{Full publication list available at \href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{Google Scholar}.}
+\vspace{1.0mm}
+}
+
+% Research experience.
+\shorterSection{Research Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {Doctoral Research, Emory University}{Atlanta, GA}
+  {Explainable AI, multimodal reasoning, and efficient LLM systems}{Aug 2022 -- Mar 2026}
+\resumeItemListStart
+  \resumeItem{Developed benchmarks, correction methods, and acceleration strategies for AI reasoning across language, vision, and multimodal settings.}
+  \resumeItem{Built explainable and multimodal learning methods for visual explanation, multimodal prediction, and agentic medical reasoning.}
+  \resumeItem{Designed evaluation pipelines for LLMs and agents, including dialogue benchmarks, multimodal reasoning tasks, and reliability-focused analysis.}
+\resumeItemListEnd
+
+\resumeSubheading
+  {Emotionally and Reasoning-Aware LLMs}{Atlanta, GA}
+  {Advisor: Prof. Liang Zhao, Emory University}{Mar 2024 -- Mar 2026}
+\resumeItemListStart
+  \resumeItem{Developed training and evaluation pipelines for emotionally aligned dialogue systems with structured reasoning and response planning.}
+  \resumeItem{Implemented supervised fine-tuning and reinforcement learning pipelines with reward signals for reasoning quality, affective alignment, and usefulness.}
+\resumeItemListEnd
+
+\resumeSubheading
+  {Agentic Multimodal Medical Reasoning from LDCT}{Atlanta, GA}
+  {Advisor: Prof. Liang Zhao, Emory University}{Nov 2024 -- Mar 2026}
+\resumeItemListStart
+  \resumeItem{Designed an agentic framework combining pulmonary perception, intermediate clinical reasoning, and downstream cardiovascular risk assessment from LDCT.}
+  \resumeItem{Integrated multimodal evidence and cross-disease reasoning to improve both predictive accuracy and clinical interpretability over image-only baselines.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{1.0mm}
+
+% Industry experience.
+\shorterSection{Industry Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {Amazon Alexa AI}{Boston, MA}
+  {Applied Scientist Intern}{May 2025 -- Aug 2025}
+\resumeItemListStart
+  \resumeItem{Developed an evaluation framework for task-oriented dialogue systems with agentic workflows, memory-augmented architectures, and multi-turn reasoning.}
+  \resumeItem{Designed synthetic dialogue generation pipelines to model complex goal dependencies, concurrency, and long-horizon contexts for benchmarking LLM-based conversational agents.}
+\resumeItemListEnd
+
+\resumeSubheading
+  {Amazon AGI}{Boston, MA}
+  {Research Scientist Intern}{Jun 2024 -- Sep 2024}
+\resumeItemListStart
+  \resumeItem{Explored reward modeling and preference-based evaluation to improve alignment of LLM-driven smart speaker interactions.}
+  \resumeItem{Developed pipelines for synthetic preference data generation and parameter-efficient fine-tuning to improve scalable benchmarking and deployment.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{1.0mm}
+
+% Service.
+\shorterSection{Academic Service}
+\small
+\textbf{Journal Reviewer}: ACM TIST, IEEE Transactions on Big Data, IEEE Transactions on Neural Networks and Learning Systems, Journal of Applied Clinical Medical Physics, Expert Systems with Applications, Information Processing and Management, Neurocomputing \\
+\textbf{Conference Reviewer / Program Committee}: ICLR 2025--2026, CVPR 2025--2026, ICCV 2025, ECCV 2026, BMVC 2026, ACL ARR, KDD Research Track 2025--2026, KDD Datasets and Benchmarks Track 2025--2026, ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
+\vspace{1.0mm}
+
+% Skills.
+\shorterSection{Technical Skills}
+\small
+\textbf{Programming}: Python, C/C++, MATLAB, Java, Shell \\
+\textbf{Systems}: Linux, Git, AWS, Slurm, Docker \\
+\textbf{Frameworks}: PyTorch, TensorFlow, Transformers, Accelerate, DeepSpeed, TRL, PEFT
+
+\end{document}

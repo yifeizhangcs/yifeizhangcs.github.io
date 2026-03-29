@@ -1,7 +1,8 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+.tmp/
 .DS_Store
-.jekyll-cache
-git-update.sh
+resume/*.aux
+resume/*.fdb_latexmk
+resume/*.fls
+resume/*.log
+resume/*.out
+resume/*.pdf
