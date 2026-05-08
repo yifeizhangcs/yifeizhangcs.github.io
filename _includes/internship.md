@@ -1,4 +1,4 @@
-## Internship Experience
+## Work Experience
 
 <table frame="void" rules="none" style="width: 100%; border-collapse: collapse;">
     <tr style="height: 60px; border: none;">
@@ -7,9 +7,11 @@
         </td>
         <td style="border: none; vertical-align: middle;">
             <div>
-                <b>Amazon</b>, 2025.05-2025.08
+                <b>Amazon Alexa AI</b>, 2026.04-
                 <br>
-                Applied Scientist Intern
+                Applied Scientist
+                <br>
+                Boston, MA
             </div>
         </td>
     </tr>
@@ -19,9 +21,25 @@
         </td>
         <td style="border: none; vertical-align: middle;">
             <div>
-                <b>Amazon</b>, 2024.06-2024.09
+                <b>Amazon Alexa AI</b>, 2025.05-2025.08
+                <br>
+                Applied Scientist Intern
+                <br>
+                Boston, MA
+            </div>
+        </td>
+    </tr>
+    <tr style="height: 60px; border: none;">
+        <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
+            <img src="../assets/img/amazon.png" style="width: 50px; height: auto; border: none;">
+        </td>
+        <td style="border: none; vertical-align: middle;">
+            <div>
+                <b>Amazon AGI</b>, 2024.06-2024.09
                 <br>
                 Research Scientist Intern
+                <br>
+                Boston, MA
             </div>
         </td>
     </tr>
@@ -52,6 +70,5 @@
     </tr>
     -->
 </table>
-
 
 

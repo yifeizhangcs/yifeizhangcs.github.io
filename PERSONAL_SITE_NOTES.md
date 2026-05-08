@@ -10,6 +10,8 @@ This file records stable maintenance preferences for the personal homepage so fu
   - `_includes/education.md`
   - `_data/publications.yml`
   - `resume/cv.tex`
+- Current position:
+  - Applied Scientist at Amazon Alexa AI, Boston, since April 2026.
 - Current Ph.D. status:
   - Emory University Ph.D. completed in March 2026.
   - Advisor: [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm)
