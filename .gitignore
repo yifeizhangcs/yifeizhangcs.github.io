@@ -1,5 +1,6 @@
 .tmp/
 .DS_Store
+AGENTS.md
 resume/*.aux
 resume/*.fdb_latexmk
 resume/*.fls
