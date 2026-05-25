@@ -12,7 +12,7 @@ main:
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Hooshang Nayyeri, Rinat Khaziev, Emine Yilmaz, Gokhan Tur, Dilek Hakkani-Tür, Hari Thadakamalla
     conference_short: ICLRW'26
     conference: ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems
-    pdf: https://arxiv.org/pdf/2601.11854
+    pdf: https://openreview.net/forum?id=1L7cY1x2zp
     image: ./assets/img/atod.png
 
   - title: "Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT"
