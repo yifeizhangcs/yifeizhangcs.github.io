@@ -6,11 +6,12 @@ layout: homepage
 
 Welcome! I'm Yifei Zhang, an Applied Scientist at [Amazon Alexa AI](https://www.amazon.science/) in Boston. I received my Ph.D. in Computer Science from [Emory University](https://www.cs.emory.edu/home/) in March 2026, where I was fortunate to be advised by [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Before Emory, I received my M.S. degree in Data Science from [Columbia University](https://www.columbia.edu/), my B.E. degree in Engineering Mechanics from [Dalian University of Technology](https://www.dlut.edu.cn/), and a Master of Engineering Management degree from [Duke University](https://duke.edu/).
 
-My research focuses on **Explainable AI (XAI)**, **AI Agents**, and **Large Language Models (LLMs)**, with particular interests in **multimodal learning, model distillation, reasoning, and evaluation**. I build methods, agents, and benchmarks that improve the reliability, interpretability, and practical deployment of modern AI systems.
+My research focuses on **Trustworthy AI**, **AI Agents and Large Language Models**, and **Multimodal AI**, with particular interests in reasoning, post-training, evaluation, and reliable deployment. I build methods, agents, and benchmarks that improve the capabilities, interpretability, and robustness of modern AI systems.
 
 ## Research Interests
-- **Explainable AI (XAI):** Multimodal Explanation-Guided Learning, Visual Explanation-Guided Learning  
-- **Large Language Models (LLMs):** Distillation, Multimodal LLMs, LLM Evaluation  
+- **Trustworthy and Explainable AI:** Interpretability, Reliability, Evaluation and Benchmarking  
+- **AI Agents and LLM Systems:** Agentic Workflows, Reasoning, Memory, Post-Training  
+- **Multimodal AI:** Vision-Language Models, Multimodal Reasoning, AI for Healthcare  
 
 ## News
 
