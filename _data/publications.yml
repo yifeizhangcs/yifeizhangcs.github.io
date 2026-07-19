@@ -26,8 +26,9 @@ main:
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Mengdan Zhu, Jian Pei, Liang Zhao
     conference_short: TechRxiv
     conference: TechRxiv
-    pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/303971/preprint_pdf/6e6fa272238a6481c4ef277f508aa97d.pdf
-    page: https://github.com/yifeizhangcs/awesome-agentic-commerce
+    pdf: "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176972193.39211542/v1?download=true&redirectToLatest=false"
+    page: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1
+    code: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
   - title: "Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation"
