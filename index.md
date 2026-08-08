@@ -17,16 +17,17 @@ My research focuses on **Trustworthy AI**, **AI Agents and Large Language Models
 
 <div class="news-section">
   <ul class="news-list">
+    <li><strong>[Aug. 2026]</strong> Our survey paper <a href="https://arxiv.org/abs/2401.00625" target="_blank" rel="noopener">Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</a> is accepted by ACM Computing Surveys (CSUR)!</li>
     <li><strong>[Apr. 2026]</strong> I joined Amazon Alexa AI as a full-time <em>Applied Scientist</em> in Boston.</li>
     <li><strong>[Mar. 2026]</strong> I successfully defended my Ph.D. dissertation. Many thanks to my dissertation committee: Dr. Liang Zhao, Dr. Wei Jin, Dr. Xiaofeng Yang, and Dr. Fenglong Ma.</li>
     <li><strong>[May. 2025]</strong> I passed my PhD qualifying examination. Thanks to my qualifying committee, Dr. Wei Jin (committee chair), Dr. Xiaofeng Yang, and Dr. Liang Zhao.</li>
     <li><strong>[May. 2025]</strong> One first-author paper <a href="https://arxiv.org/abs/2310.08537" target="_blank" rel="noopener">Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations</a> is accepted by KDD 2025 Datasets and Benchmarks Track!</li>
-    <li><strong>[Jan. 2025]</strong> I will rejoin Amazon Alexa AI as an <em>Applied Scientist Intern</em> in Boston for Summer 2025.</li>
   </ul>
 
   <details class="news-archive">
     <summary>Show earlier news</summary>
     <ul class="news-list news-list-archive">
+      <li><strong>[Jan. 2025]</strong> I will rejoin Amazon Alexa AI as an <em>Applied Scientist Intern</em> in Boston for Summer 2025.</li>
       <li><strong>[May. 2024]</strong> One first-author paper is accepted by Findings of ACL 2024, and one co-authored paper is accepted by KDD 2024!</li>
       <li><strong>[May. 2024]</strong> I will join Amazon AGI as a <em>Research Scientist Intern</em> at Boston in Summer 2024!</li>
       <li><strong>[Apr. 2024]</strong> One first-author paper <a href="https://arxiv.org/abs/2310.08420" target="_blank" rel="noopener">Visual Attention Prompted Prediction and Learning</a> is accepted by IJCAI 2024!</li>

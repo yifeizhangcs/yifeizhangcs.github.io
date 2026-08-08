@@ -40,7 +40,7 @@ main:
     image: ./assets/img/cross_modal_rag.png
 
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
-    authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Carl Yang, Yue Cheng, Liang Zhao
+    authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, <span style="text-decoration:underline">Yifei Zhang</span>, Xinyuan Song, Carl Yang, Yue Cheng, Liang Zhao
     conference_short: CSUR'26
     conference: ACM Computing Surveys <strong>(CSUR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2401.00625
