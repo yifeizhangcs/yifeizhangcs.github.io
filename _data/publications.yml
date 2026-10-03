@@ -1,5 +1,13 @@
 main:
 
+  - title: "Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does"
+    authors: Xinyi Liu, Hooshang Nayyeri, Dilek Hakkani-Tur, Emine Yilmaz, Joo-Kyung Kim, <span style="text-decoration:underline">Yifei Zhang</span>, Charith Peris, Hari Thadakamalla
+    conference_short: NeurIPSW'26
+    conference: "NeurIPS 2026 Workshop on Real-Time Conversational Agents: Toward Natural Multimodal Interaction <strong>(RTCA)</strong> (Poster)."
+    pdf: https://arxiv.org/pdf/2608.19515
+    page: https://openreview.net/forum?id=BaBJ4BS67X
+    image: ./assets/img/hear2act.png
+
   - title: "EmoLLM: Appraisal-Grounded Cognitive-Emotional Co-Reasoning in Large Language Models"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Mingyang Li, Henry Gao, Liang Zhao
     conference_short: arXiv
@@ -13,6 +21,7 @@ main:
     conference_short: AACL-IJCNLP'26
     conference: The 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 15th International Joint Conference on Natural Language Processing <strong>(AACL-IJCNLP)</strong>, 2026 (Main Conference).
     pdf: https://arxiv.org/abs/2601.11854
+    code: https://github.com/amazon-science/ATOD
     image: ./assets/img/atod.png
 
   - title: "Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT"
