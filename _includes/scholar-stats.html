@@ -1,11 +1,10 @@
-{% assign scholar = site.data.scholar %}
-{% if scholar %}
-<div class="scholar-stats" data-scholar-id="{{ scholar.author_id | escape }}" data-updated-at="{{ scholar.updated_at | escape }}" data-stats-url="https://raw.githubusercontent.com/yifeizhangcs/yifeizhangcs.github.io/google-scholar-stats/scholar.json" aria-label="Google Scholar statistics">
-  <dl class="scholar-stats-metrics">
-    <div><dt>Citations</dt><dd data-metric="citations">{{ scholar.citations }}</dd></div>
-    <div><dt>h-index</dt><dd data-metric="h_index">{{ scholar.h_index }}</dd></div>
-    <div><dt>i10-index</dt><dd data-metric="i10_index">{{ scholar.i10_index }}</dd></div>
-  </dl>
-  <p class="scholar-stats-source"><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a> <span aria-hidden="true">&middot;</span> <span data-stats-date>Last updated <time datetime="{{ scholar.updated_at | escape }}">{{ scholar.updated_at | date: "%b. %d, %Y" }}</time></span></p>
+{% if site.google_scholar %}
+<div class="scholar-stats" aria-label="Google Scholar statistics">
+  <div class="scholar-stats-badges">
+    <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="View total citations on Google Scholar"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dy5FkC7cAAAAJ&amp;style=flat-square&amp;labelColor=475569&amp;color=043361" alt="Google Scholar citations" height="22" loading="lazy" decoding="async"></a>
+    <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="View h-index on Google Scholar"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3Dy5FkC7cAAAAJ&amp;style=flat-square&amp;labelColor=475569&amp;color=043361" alt="Google Scholar h-index" height="22" loading="lazy" decoding="async"></a>
+    <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="View i10-index on Google Scholar"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fi10-index%3Fuser%3Dy5FkC7cAAAAJ&amp;style=flat-square&amp;labelColor=475569&amp;color=043361" alt="Google Scholar i10-index" height="22" loading="lazy" decoding="async"></a>
+  </div>
+  <p class="scholar-stats-source"><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a> <span aria-hidden="true">&middot;</span> Cached metrics</p>
 </div>
 {% endif %}
