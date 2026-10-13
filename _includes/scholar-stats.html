@@ -1,0 +1,11 @@
+{% assign scholar = site.data.scholar %}
+{% if scholar %}
+<div class="scholar-stats" data-scholar-id="{{ scholar.author_id | escape }}" data-updated-at="{{ scholar.updated_at | escape }}" data-stats-url="https://raw.githubusercontent.com/yifeizhangcs/yifeizhangcs.github.io/google-scholar-stats/scholar.json" aria-label="Google Scholar statistics">
+  <dl class="scholar-stats-metrics">
+    <div><dt>Citations</dt><dd data-metric="citations">{{ scholar.citations }}</dd></div>
+    <div><dt>h-index</dt><dd data-metric="h_index">{{ scholar.h_index }}</dd></div>
+    <div><dt>i10-index</dt><dd data-metric="i10_index">{{ scholar.i10_index }}</dd></div>
+  </dl>
+  <p class="scholar-stats-source"><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a> <span aria-hidden="true">&middot;</span> <span data-stats-date>Last updated <time datetime="{{ scholar.updated_at | escape }}">{{ scholar.updated_at | date: "%b. %d, %Y" }}</time></span></p>
+</div>
+{% endif %}

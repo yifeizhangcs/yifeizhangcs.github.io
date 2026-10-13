@@ -1,5 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected publications and preprints</h2>
 
+{% include scholar-stats.html %}
+
 <div class="publications">
 <ol class="bibliography">
 

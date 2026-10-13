@@ -44,8 +44,10 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <link rel="stylesheet" href="{{ '/assets/css/scholar-stats.css' | relative_url }}">
+    <script defer src="{{ '/assets/js/scholar-stats.js' | relative_url }}"></script>
   </head>
-  <body>
+  <body{% if site.auto_dark_mode %} class="scholar-stats-dark-mode"{% endif %}>
     <div class="wrapper">
       <header>
         

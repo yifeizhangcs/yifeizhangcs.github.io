@@ -1,6 +1,7 @@
 .tmp/
 .DS_Store
 AGENTS.md
+__pycache__/
 resume/*.aux
 resume/*.fdb_latexmk
 resume/*.fls
