@@ -17,7 +17,7 @@ My research focuses on **Trustworthy AI**, **AI Agents and Large Language Models
 
 <div class="news-section">
   <ul class="news-list">
-    <li><strong>[Sep. 2026]</strong> Our paper <a href="https://arxiv.org/abs/2601.11854" target="_blank" rel="noopener">ATOD</a> has been accepted to the AACL-IJCNLP 2026 Main Conference!</li>
+    <li><strong>[Sep. 2026]</strong> Our paper <a href="https://aclanthology.org/2026.aacl-long.109/" target="_blank" rel="noopener">ATOD</a> has been accepted to the AACL-IJCNLP 2026 Main Conference!</li>
     <li><strong>[Aug. 2026]</strong> Our survey paper <a href="https://arxiv.org/abs/2401.00625" target="_blank" rel="noopener">Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</a> is accepted by ACM Computing Surveys (CSUR)!</li>
     <li><strong>[Apr. 2026]</strong> I joined Amazon Alexa AI as a full-time <em>Applied Scientist</em> in Boston.</li>
     <li><strong>[Mar. 2026]</strong> I successfully defended my Ph.D. dissertation. Many thanks to my dissertation committee: Dr. Liang Zhao, Dr. Wei Jin, Dr. Xiaofeng Yang, and Dr. Fenglong Ma.</li>
