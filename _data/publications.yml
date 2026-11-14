@@ -45,8 +45,8 @@ main:
 
   - title: "Dual Decomposition for Text-to-Image Retrieval and Generation"
     authors: Mengdan Zhu, Senhao Cheng, Guangji Bai, <span style="text-decoration:underline">Yifei Zhang</span>, Liang Zhao
-    conference_short: EACL Findings'27
-    conference: "Findings of the Association for Computational Linguistics: <strong>EACL 2027</strong> (accepted)."
+    conference_short: EACL'27
+    conference: The 20th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>, Findings, 2027 (accepted).
     pdf: https://arxiv.org/abs/2505.21956
     code: https://github.com/mengdanzhu/cross-modal-rag
     image: ./assets/img/cross_modal_rag.png
@@ -98,8 +98,8 @@ main:
 
   - title: "ELAD: Explanation-Guided Large Language Models Active Distillation"
     authors: <span style="text-decoration:underline">Yifei Zhang</span>, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao
-    conference_short: ACL' 24
-    conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL-Findings)</strong>, 2024.
+    conference_short: ACL'24
+    conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, Findings, 2024.
     pdf: https://aclanthology.org/2024.findings-acl.264/
     poster: ./assets/files/elad_poster.pdf
     image: ./assets/img/elad.png

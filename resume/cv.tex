@@ -1,150 +1,111 @@
-\documentclass[11pt,letterpaper]{article}
+% Uses the official moderncv Banking style.
+% Template: https://github.com/moderncv/moderncv (LPPL 1.3c).
+\documentclass[10pt,letterpaper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+\moderncvicons{letters}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=0.65in]{geometry}
-\usepackage{mathptmx}
+\usepackage[margin=0.7in]{geometry}
 \usepackage{enumitem}
-\usepackage{etoolbox}
-\usepackage{xcolor}
-\usepackage{titlesec}
-\usepackage{fancyhdr}
 \usepackage{needspace}
-\definecolor{cvblue}{HTML}{003399}
-\usepackage[colorlinks=true,allcolors=cvblue]{hyperref}
-\hypersetup{pdftitle={Yifei Zhang - Curriculum Vitae},pdfauthor={Yifei Zhang}}
-\urlstyle{same}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{1pt}
+\setlist[itemize]{leftmargin=1.25em,itemsep=1pt,topsep=2pt,parsep=0pt}
 \setlength{\emergencystretch}{2em}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot[C]{\small\thepage}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-\setlist[itemize]{label={\textcolor{cvblue}{$\circ$}},leftmargin=1.2em,itemsep=1pt,topsep=1pt,parsep=0pt}
-\titleformat{\section}{\large\bfseries\color{cvblue}}{}{0pt}{}[\vspace{-4pt}\titlerule]
-\titlespacing*{\section}{0pt}{8pt}{4pt}
-\titleformat{\subsection}{\normalsize\bfseries\color{cvblue}}{}{0pt}{}
-\titlespacing*{\subsection}{0pt}{7pt}{3pt}
-\newcommand{\cveducation}[4]{%
-  \Needspace{5\baselineskip}
-  \textbf{\textcolor{cvblue}{#1}}\hfill #2
-  \begin{itemize}\item #3 #4\end{itemize}
-}
-\newcommand{\cvposition}[4]{%
-  \Needspace{6\baselineskip}
-  \textbf{\textcolor{cvblue}{#1}}\hfill #2\\
-  \textit{#3}\hfill #4
-}
-\newcommand{\cvpub}[4]{%
+\name{Yifei}{Zhang}
+\title{Applied Scientist}
+\address{Amazon Alexa AI, Boston, Massachusetts}{}{}
+\email{jimmyzyf@amazon.com}
+\homepage{yifeizhangcs.github.io}
+\extrainfo{\href{mailto:yifei.zhang2@emory.edu}{yifei.zhang2@emory.edu}
+\quad | \quad \href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{Google Scholar}
+\quad | \quad \href{https://github.com/yifeizhangcs}{GitHub}}
+\newcommand{\cvpaper}[4]{%
   \par\addvspace{5pt}\noindent
   \begin{minipage}{\linewidth}
-  \begin{minipage}[t]{0.76\linewidth}\vspace{0pt}
-  \ifstrempty{#4}{\textbf{#1}}{\href{#4}{\textcolor{black}{\textbf{#1}}}}
-  \end{minipage}\hfill
-  \begin{minipage}[t]{0.22\linewidth}\vspace{0pt}
-  \raggedleft\small\color{cvblue}#3
-  \end{minipage}\par\vspace{2pt}
-  \noindent #2
+  \ifstrempty{#4}{\textbf{#1}}{\href{#4}{\textcolor{black}{\textbf{#1}}}}\par
+  {\small #2\par\textit{#3}\par}
   \end{minipage}\par
 }
 \begin{document}
-\fontsize{10.5}{12.3}\selectfont
-\begin{center}
-{\fontsize{22}{25}\selectfont\bfseries\color{cvblue}Yifei Zhang}\\[4pt]
-Applied Scientist, Amazon Alexa AI \quad | \quad Boston, Massachusetts\\[2pt]
-\href{mailto:jimmyzyf@amazon.com}{jimmyzyf@amazon.com} \quad $\cdot$ \quad
-\href{mailto:yifei.zhang2@emory.edu}{yifei.zhang2@emory.edu}\\[2pt]
-\href{https://yifeizhangcs.github.io/}{yifeizhangcs.github.io} \quad $\cdot$ \quad
-\href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{Google Scholar} \quad $\cdot$ \quad
-\href{https://github.com/yifeizhangcs}{GitHub}
-\end{center}
-{\small\hfill Last updated: November 14, 2026}
+\makecvtitle
+\vspace{-1.5em}
+{\small\color{gray}\hfill Updated November 14, 2026\par}
 
 \section{Education}
-\cveducation{Emory University}{Aug. 2022 -- Mar. 2026}{Ph.D. in Computer Science}{
-\item Advisor: \href{http://cs.emory.edu/~lzhao41/index.htm}{Prof. Liang Zhao}
-\item Dissertation: \href{https://etd.library.emory.edu/concern/etds/3197xn83d?locale=en}{Benchmarking, Correcting, and Accelerating AI Reasoning across Diverse Modalities}}
-\cveducation{Columbia University}{Sept. 2020 -- Dec. 2021}{M.S. in Data Science}{}
-\cveducation{Duke University}{Aug. 2019 -- May 2020}{Master of Engineering Management}{}
-\cveducation{Dalian University of Technology}{Sept. 2015 -- June 2019}{B.E. in Engineering Mechanics}{}
+\cventry{Aug. 2022 -- Mar. 2026}{Ph.D. in Computer Science}{Emory University}{Atlanta, GA}{}{Advisor: \href{http://cs.emory.edu/~lzhao41/index.htm}{Prof. Liang Zhao}\\
+Dissertation: \href{https://etd.library.emory.edu/concern/etds/3197xn83d?locale=en}{Benchmarking, Correcting, and Accelerating AI Reasoning across Diverse Modalities}}
+\cventry{Sept. 2020 -- Dec. 2021}{M.S. in Data Science}{Columbia University}{New York, NY}{}{}
+\cventry{Aug. 2019 -- May 2020}{Master of Engineering Management}{Duke University}{Durham, NC}{}{}
+\cventry{Sept. 2015 -- June 2019}{B.E. in Engineering Mechanics}{Dalian University of Technology}{Dalian, China}{}{}
 
-\section{Research Highlights}
-\begin{itemize}
-\item \textbf{AI Agents and Evaluation.} Develop benchmarks and evaluation methods for long-horizon dialogue, goal tracking, memory, and multimodal assistant behavior, including ATOD and Hear2Act.
-\item \textbf{Explainable and Trustworthy AI.} Build explanation-guided learning methods and benchmarks for evaluating visual explanations, including MAGI, ELAD, and Saliency-Bench.
-\item \textbf{Multimodal Reasoning.} Study retrieval-augmented image generation, cognitive-emotional reasoning, and agentic medical reasoning across language, vision, and clinical data.
-\end{itemize}
+\section{Research Focus}
+\cvitem{}{AI agents and evaluation; explainable and trustworthy AI; multimodal reasoning.}
+\cvitem{}{Develop benchmarks and methods for long-horizon dialogue, memory, visual explanation, retrieval-augmented generation, and reasoning across language, vision, and clinical data. Representative work includes ATOD, Hear2Act, MAGI, ELAD, and Saliency-Bench.}
 
 \section{Research and Industry Experience}
-\cvposition{Amazon}{Apr. 2026 -- Present}{Applied Scientist}{Boston, MA}
+\cventry{Apr. 2026 -- Present}{Applied Scientist}{Amazon}{Boston, MA}{}{
 \begin{itemize}
 \item Develop scalable evaluation methods for agentic conversational systems, covering reliability, task completion, conversational quality, and multimodal behavior.
-\item Combine diverse evaluation signals into interpretable quality assessments for model and system improvement.
+\item Combine evaluation signals into interpretable assessments for model and system improvement.
 \item Research privacy-aware model adaptation and distillation under practical system constraints.
-\end{itemize}
-\cvposition{Amazon}{May 2025 -- Aug. 2025}{Applied Scientist Intern}{Boston, MA}
+\end{itemize}}
+\cventry{May 2025 -- Aug. 2025}{Applied Scientist Intern}{Amazon}{Boston, MA}{}{
 \begin{itemize}
-\item Developed a memory system and multi-agent evaluation framework for agentic conversational systems.
+\item Developed a memory system and multi-agent evaluation framework for conversational systems.
 \item Built synthetic dialogue-generation and benchmarking pipelines for long-horizon, multi-turn, and concurrent user tasks.
-\end{itemize}
-\cvposition{Amazon AGI}{June 2024 -- Sept. 2024}{Research Scientist Intern}{Boston, MA}
+\end{itemize}}
+\cventry{June 2024 -- Sept. 2024}{Research Scientist Intern}{Amazon AGI}{Boston, MA}{}{
 \begin{itemize}
 \item Developed reward modeling and preference-based evaluation workflows for LLM-driven conversational interactions.
 \item Built synthetic preference-data generation and parameter-efficient fine-tuning pipelines.
-\end{itemize}
-\cvposition{Emory University}{Aug. 2022 -- Mar. 2026}{Ph.D. Student Researcher}{Atlanta, GA}
-\begin{itemize}
-\item Developed evaluation benchmarks and explanation-guided methods for reliable AI across language, vision, and multimodal data.
-\end{itemize}
+\end{itemize}}
+\cventry{Aug. 2022 -- Mar. 2026}{Ph.D. Student Researcher}{Emory University}{Atlanta, GA}{}{Developed evaluation benchmarks and explanation-guided methods for reliable AI across language, vision, and multimodal data.}
 
-\newpage
 \section{Publications}
-Full publication list: \href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{Google Scholar}.
-\subsection*{Peer-Reviewed and Accepted Papers}
-\cvpub{Dual Decomposition for Text-to-Image Retrieval and Generation}{M. Zhu, S. Cheng, G. Bai, \textbf{Yifei Zhang}, and L. Zhao}{EACL Findings, 2027\newline(accepted)}{https://arxiv.org/abs/2505.21956}
+\cvitem{}{Full publication list: \href{https://scholar.google.com/citations?user=y5FkC7cAAAAJ&hl=en}{Google Scholar}.}
+\subsection{Peer-Reviewed and Accepted Papers}
+\cvpaper{Dual Decomposition for Text-to-Image Retrieval and Generation}{M. Zhu, S. Cheng, G. Bai, \textbf{Yifei Zhang}, and L. Zhao}{The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Findings, 2027 (accepted).}{https://arxiv.org/abs/2505.21956}
 
-\cvpub{Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models}{G. Bai, Z. Chai, C. Ling, S. Wang, J. Lu, N. Zhang, T. Shi, Z. Yu, M. Zhu, \textbf{Yifei Zhang}, X. Song, C. Yang, Y. Cheng, and L. Zhao}{ACM CSUR, 2026}{https://dl.acm.org/doi/10.1145/3845797}
+\cvpaper{Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models}{G. Bai, Z. Chai, C. Ling, S. Wang, J. Lu, N. Zhang, T. Shi, Z. Yu, M. Zhu, \textbf{Yifei Zhang}, X. Song, C. Yang, Y. Cheng, and L. Zhao}{ACM Computing Surveys (CSUR), 2026.}{https://dl.acm.org/doi/10.1145/3845797}
 
-\cvpub{ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems}{\textbf{Yifei Zhang}, H. Nayyeri, R. Khaziev, E. Yilmaz, G. Tur, D. Hakkani-T\"ur, and H. P. Thadakamalla}{AACL-IJCNLP, 2026}{https://aclanthology.org/2026.aacl-long.109/}
+\cvpaper{ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems}{\textbf{Yifei Zhang}, H. Nayyeri, R. Khaziev, E. Yilmaz, G. Tur, D. Hakkani-T\"ur, and H. P. Thadakamalla}{The 15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP), 2026.}{https://aclanthology.org/2026.aacl-long.109/}
 
-\cvpub{Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does}{X. Liu, H. Nayyeri, D. Hakkani-T\"ur, E. Yilmaz, J.-K. Kim, \textbf{Yifei Zhang}, C. Peris, and H. Thadakamalla}{NeurIPS RTCA, 2026\newline(workshop poster)}{https://arxiv.org/abs/2608.19515}
+\cvpaper{Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does}{X. Liu, H. Nayyeri, D. Hakkani-T\"ur, E. Yilmaz, J.-K. Kim, \textbf{Yifei Zhang}, C. Peris, and H. Thadakamalla}{Conference on Neural Information Processing Systems (NeurIPS), RTCA Workshop, 2026 (accepted poster).}{https://arxiv.org/abs/2608.19515}
 
-\cvpub{Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations}{\textbf{Yifei Zhang}, J. Song, S. Gu, T. Jiang, B. Pan, G. Bai, and L. Zhao}{KDD, 2025}{https://dl.acm.org/doi/10.1145/3711896.3737414}
+\cvpaper{Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations}{\textbf{Yifei Zhang}, J. Song, S. Gu, T. Jiang, B. Pan, G. Bai, and L. Zhao}{The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Datasets and Benchmarks Track, 2025.}{https://dl.acm.org/doi/10.1145/3711896.3737414}
 
-\cvpub{GraphNarrator: Generating Textual Explanations for Graph Neural Networks}{B. Pan, Z. Xiong, G. Wu, Z. Zhang, Y. Hu, \textbf{Yifei Zhang}, and L. Zhao}{ACL, 2025}{https://arxiv.org/abs/2410.15268}
+\cvpaper{GraphNarrator: Generating Textual Explanations for Graph Neural Networks}{B. Pan, Z. Xiong, G. Wu, Z. Zhang, Y. Hu, \textbf{Yifei Zhang}, and L. Zhao}{The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025.}{https://arxiv.org/abs/2410.15268}
 
-\cvpub{Distilling Large Language Models for Text-Attributed Graph Learning}{B. Pan, Z. Zhang, \textbf{Yifei Zhang}, Y. Hu, and L. Zhao}{CIKM, 2024}{https://arxiv.org/abs/2402.12022}
+\cvpaper{Distilling Large Language Models for Text-Attributed Graph Learning}{B. Pan, Z. Zhang, \textbf{Yifei Zhang}, Y. Hu, and L. Zhao}{The 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.}{https://arxiv.org/abs/2402.12022}
 
-\cvpub{Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Biomedical Image Segmentation}{X. Li, \textbf{Yifei Zhang}, and L. Zhao}{Springer, 2024\newline(book chapter)}{}
+\cvpaper{Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Biomedical Image Segmentation}{X. Li, \textbf{Yifei Zhang}, and L. Zhao}{AI for Health Equity and Fairness, Studies in Computational Intelligence, vol. 1164, pp. 83--91, Springer, 2024.}{}
 
-\cvpub{DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation}{Q. Zhao, \textbf{Yifei Zhang}, M. Zhu, S. Gu, Y. Gao, X. Yang, and L. Zhao}{KDD, 2024}{https://arxiv.org/abs/2403.10831}
+\cvpaper{DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation}{Q. Zhao, \textbf{Yifei Zhang}, M. Zhu, S. Gu, Y. Gao, X. Yang, and L. Zhao}{The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.}{https://arxiv.org/abs/2403.10831}
 
-\cvpub{ELAD: Explanation-Guided Large Language Models Active Distillation}{\textbf{Yifei Zhang}, B. Pan, C. Ling, Y. Hu, and L. Zhao}{ACL Findings, 2024}{https://aclanthology.org/2024.findings-acl.264/}
+\cvpaper{ELAD: Explanation-Guided Large Language Models Active Distillation}{\textbf{Yifei Zhang}, B. Pan, C. Ling, Y. Hu, and L. Zhao}{The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), Findings, 2024.}{https://aclanthology.org/2024.findings-acl.264/}
 
-\cvpub{Visual Attention Prompted Prediction and Learning}{\textbf{Yifei Zhang}, B. Pan, S. Gu, G. Bai, M. Qiu, X. Yang, and L. Zhao}{IJCAI, 2024}{https://www.ijcai.org/proceedings/2024/610}
+\cvpaper{Visual Attention Prompted Prediction and Learning}{\textbf{Yifei Zhang}, B. Pan, S. Gu, G. Bai, M. Qiu, X. Yang, and L. Zhao}{The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.}{https://www.ijcai.org/proceedings/2024/610}
 
-\cvpub{STES: A Spatiotemporal Explanation Supervision Framework}{D. Yu, B. Chen, Y. Li, S. Dhakal, \textbf{Yifei Zhang}, Z. Liu, M. Zhang, J. Zhang, and L. Zhao}{SDM, 2024}{https://epubs.siam.org/doi/10.1137/1.9781611978032.9}
+\cvpaper{STES: A Spatiotemporal Explanation Supervision Framework}{D. Yu, B. Chen, Y. Li, S. Dhakal, \textbf{Yifei Zhang}, Z. Liu, M. Zhang, J. Zhang, and L. Zhao}{SIAM International Conference on Data Mining (SDM), 2024.}{https://epubs.siam.org/doi/10.1137/1.9781611978032.9}
 
-\cvpub{MAGI: Multi-Annotated Explanation-Guided Learning}{\textbf{Yifei Zhang}, S. Gu, Y. Gao, B. Pan, X. Yang, and L. Zhao}{ICCV, 2023}{https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf}
+\cvpaper{MAGI: Multi-Annotated Explanation-Guided Learning}{\textbf{Yifei Zhang}, S. Gu, Y. Gao, B. Pan, X. Yang, and L. Zhao}{IEEE/CVF International Conference on Computer Vision (ICCV), 2023.}{https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf}
 
-\cvpub{ESSA: Explanation Iterative Supervision via Saliency-Guided Data Augmentation}{S. Gu, \textbf{Yifei Zhang}, Y. Gao, X. Yang, and L. Zhao}{KDD, 2023}{https://dl.acm.org/doi/10.1145/3580305.3599336}
+\cvpaper{ESSA: Explanation Iterative Supervision via Saliency-Guided Data Augmentation}{S. Gu, \textbf{Yifei Zhang}, Y. Gao, X. Yang, and L. Zhao}{The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.}{https://dl.acm.org/doi/10.1145/3580305.3599336}
 
-\newpage
 \section{Preprints}
-\cvpub{Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce}{\textbf{Yifei Zhang}, B. Pan, M. Zhu, J. Pei, and L. Zhao}{TechRxiv, 2026}{https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1}
+\cvpaper{Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce}{\textbf{Yifei Zhang}, B. Pan, M. Zhu, J. Pei, and L. Zhao}{TechRxiv preprint, 2026.}{https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1}
 
-\cvpub{EmoLLM: Appraisal-Grounded Cognitive-Emotional Co-Reasoning in Large Language Models}{\textbf{Yifei Zhang}, M. Li, H. Gao, and L. Zhao}{arXiv, 2026}{https://arxiv.org/abs/2603.16553}
+\cvpaper{EmoLLM: Appraisal-Grounded Cognitive-Emotional Co-Reasoning in Large Language Models}{\textbf{Yifei Zhang}, M. Li, H. Gao, and L. Zhao}{arXiv:2603.16553, 2026.}{https://arxiv.org/abs/2603.16553}
 
-\cvpub{Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from Low-Dose Computed Tomography}{\textbf{Yifei Zhang}, J. Zhang, M. Safari, X. Yang, and L. Zhao}{arXiv, 2025}{https://arxiv.org/abs/2511.06625}
+\cvpaper{Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from Low-Dose Computed Tomography}{\textbf{Yifei Zhang}, J. Zhang, M. Safari, X. Yang, and L. Zhao}{arXiv:2511.06625, 2025.}{https://arxiv.org/abs/2511.06625}
 
-\cvpub{MEGL: Multimodal Explanation-Guided Learning}{\textbf{Yifei Zhang}, T. Jiang, B. Pan, J. Wang, G. Bai, and L. Zhao}{arXiv, 2024}{https://arxiv.org/abs/2411.13053}
+\cvpaper{MEGL: Multimodal Explanation-Guided Learning}{\textbf{Yifei Zhang}, T. Jiang, B. Pan, J. Wang, G. Bai, and L. Zhao}{arXiv:2411.13053, 2024.}{https://arxiv.org/abs/2411.13053}
 
-\cvpub{Saliency-Guided Hidden Associative Replay for Continual Learning}{G. Bai, Q. Zhao, X. Jiang, \textbf{Yifei Zhang}, and L. Zhao}{arXiv, 2023}{https://arxiv.org/abs/2310.04334}
+\cvpaper{Saliency-Guided Hidden Associative Replay for Continual Learning}{G. Bai, Q. Zhao, X. Jiang, \textbf{Yifei Zhang}, and L. Zhao}{arXiv:2310.04334, 2023.}{https://arxiv.org/abs/2310.04334}
 
-\cvpub{SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation}{B. Pan, Z. Liu, \textbf{Yifei Zhang}, and L. Zhao}{arXiv, 2023}{https://arxiv.org/abs/2310.07698}
+\cvpaper{SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation}{B. Pan, Z. Liu, \textbf{Yifei Zhang}, and L. Zhao}{arXiv:2310.07698, 2023.}{https://arxiv.org/abs/2310.07698}
 
-\cvpub{Controllable Data Generation Via Iterative Data-Property Mutual Mappings}{B. Pan, M. Qin, S. Wang, \textbf{Yifei Zhang}, and L. Zhao}{arXiv, 2023}{https://arxiv.org/abs/2310.07683}
+\cvpaper{Controllable Data Generation Via Iterative Data-Property Mutual Mappings}{B. Pan, M. Qin, S. Wang, \textbf{Yifei Zhang}, and L. Zhao}{arXiv:2310.07683, 2023.}{https://arxiv.org/abs/2310.07683}
 
 \section{Academic Service}
 \textbf{Journal Reviewer:} ACM TIST; IEEE TBD; IEEE TNNLS; JACMP; Expert Systems with Applications; Information Processing and Management; Neurocomputing; Information Systems Journal.
