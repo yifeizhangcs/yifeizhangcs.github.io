@@ -43,10 +43,10 @@ main:
     code: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
-  - title: "Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation"
+  - title: "Dual Decomposition for Text-to-Image Retrieval and Generation"
     authors: Mengdan Zhu, Senhao Cheng, Guangji Bai, <span style="text-decoration:underline">Yifei Zhang</span>, Liang Zhao
-    conference_short: arXiv
-    conference: arXiv
+    conference_short: EACL Findings'27
+    conference: "Findings of the Association for Computational Linguistics: <strong>EACL 2027</strong> (accepted)."
     pdf: https://arxiv.org/abs/2505.21956
     code: https://github.com/mengdanzhu/cross-modal-rag
     image: ./assets/img/cross_modal_rag.png
