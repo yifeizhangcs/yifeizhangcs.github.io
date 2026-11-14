@@ -14,16 +14,16 @@
 \hypersetup{pdftitle={Yifei Zhang - Curriculum Vitae},pdfauthor={Yifei Zhang}}
 \urlstyle{same}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{2pt}
+\setlength{\parskip}{1pt}
 \setlength{\emergencystretch}{2em}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\setlist[itemize]{label={\textcolor{cvblue}{$\circ$}},leftmargin=1.2em,itemsep=1.5pt,topsep=2pt,parsep=0pt}
+\setlist[itemize]{label={\textcolor{cvblue}{$\circ$}},leftmargin=1.2em,itemsep=1pt,topsep=1pt,parsep=0pt}
 \titleformat{\section}{\large\bfseries\color{cvblue}}{}{0pt}{}[\vspace{-4pt}\titlerule]
-\titlespacing*{\section}{0pt}{10pt}{5pt}
+\titlespacing*{\section}{0pt}{8pt}{4pt}
 \titleformat{\subsection}{\normalsize\bfseries\color{cvblue}}{}{0pt}{}
 \titlespacing*{\subsection}{0pt}{7pt}{3pt}
 \newcommand{\cveducation}[4]{%
@@ -37,16 +37,15 @@
   \textit{#3}\hfill #4
 }
 \newcommand{\cvpub}[4]{%
-  \par\addvspace{7pt}\noindent
+  \par\addvspace{5pt}\noindent
   \begin{minipage}{\linewidth}
   \begin{minipage}[t]{0.76\linewidth}\vspace{0pt}
   \ifstrempty{#4}{\textbf{#1}}{\href{#4}{\textcolor{black}{\textbf{#1}}}}
   \end{minipage}\hfill
   \begin{minipage}[t]{0.22\linewidth}\vspace{0pt}
   \raggedleft\small\color{cvblue}#3
-  \end{minipage}\par\vspace{3pt}
-  \hangindent=1.2em\hangafter=1
-  \makebox[1.2em][l]{\textcolor{cvblue}{$\circ$}}#2
+  \end{minipage}\par\vspace{2pt}
+  \noindent #2
   \end{minipage}\par
 }
 \begin{document}
