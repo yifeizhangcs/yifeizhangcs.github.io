@@ -10,7 +10,7 @@ My research focuses on **Trustworthy AI**, **AI Agents and Large Language Models
 
 ## Research Interests
 - **Trustworthy and Explainable AI:** Interpretability, Reliability, Evaluation and Benchmarking  
-- **AI Agents and LLM Systems:** Agentic Workflows, Reasoning, Memory, Post-Training  
+- **AI Agents and LLM Systems:** Agent Harnesses, Reasoning, Memory, Post-Training
 - **Multimodal AI:** Vision-Language Models, Multimodal Reasoning, AI for Healthcare  
 
 ## News
