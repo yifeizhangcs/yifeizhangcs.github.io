@@ -32,6 +32,12 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Code</a>
       {% endif %}
+      {% if link.project %}
+      <a href="{{ link.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Project</a>
+      {% endif %}
+      {% if link.resources %}
+      <a href="{{ link.resources }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Resources</a>
+      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Page</a>
       {% endif %}

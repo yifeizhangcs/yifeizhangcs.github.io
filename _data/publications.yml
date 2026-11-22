@@ -40,7 +40,7 @@ main:
     conference: TechRxiv
     pdf: "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176972193.39211542/v1?download=true&redirectToLatest=false"
     page: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1
-    code: https://github.com/yifeizhangcs/awesome-agentic-commerce
+    resources: https://github.com/yifeizhangcs/awesome-agentic-commerce
     image: ./assets/img/a-commerce.png
 
   - title: "Dual Decomposition for Text-to-Image Retrieval and Generation"
@@ -56,7 +56,7 @@ main:
     conference_short: CSUR'26
     conference: ACM Computing Surveys <strong>(CSUR)</strong>, 2026.
     pdf: https://dl.acm.org/doi/10.1145/3845797
-    page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
+    resources: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     image: ./assets/img/beyond_efficiency_survey.png
 
   - title: "Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations"
@@ -64,7 +64,7 @@ main:
     conference_short: KDD'25
     conference: The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2025 (Datasets and Benchmarks Track).
     pdf: https://dl.acm.org/doi/pdf/10.1145/3711896.3737414
-    page: https://xaidataset.github.io/
+    project: https://xaidataset.github.io/
     image: ./assets/img/benchmark.png
 
   - title: "MEGL: Multimodal Explanation-Guided Learning"
@@ -72,7 +72,6 @@ main:
     conference_short: arXiv
     conference: arXiv
     pdf: https://arxiv.org/pdf/2411.13053
-    page: https://arxiv.org/pdf/2411.13053
     image: ./assets/img/megl.png
 
   - title: "GraphNarrator: Generating Textual Explanations for Graph Neural Networks"
@@ -109,7 +108,7 @@ main:
     conference_short: IJCAI' 24
     conference: International Joint Conference on Artificial  Intelligence <strong>(IJCAI)</strong>, 2024.
     pdf: https://www.ijcai.org/proceedings/2024/610
-    page: https://github.com/yifeizhangcs/visual-attention-prompt
+    code: https://github.com/yifeizhangcs/visual-attention-prompt
     image: ./assets/img/ijcai24.png
 
   - title: "STES: A Spatiotemporal Explanation Supervision Framework"
