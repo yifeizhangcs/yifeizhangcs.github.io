@@ -2,12 +2,14 @@
 <h4 style="margin:0 0 6px;">Journal Reviewer</h4>
 <p style="margin:0 0 16px; line-height:1.75;">
   <a href="https://dl.acm.org/journal/tist"><autocolor>ACM TIST</autocolor></a>,
+  <a href="https://dl.acm.org/journal/csur"><autocolor>ACM Computing Surveys (CSUR)</autocolor></a>,
   <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317"><autocolor>IEEE TBD</autocolor></a>,
   <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE TNNLS</autocolor></a>,
   <a href="https://aapm.onlinelibrary.wiley.com/journal/15269914"><autocolor>JACMP</autocolor></a>,
   <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems With Applications</autocolor></a>,
   <a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a>,
   <a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a>,
+  <a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks</autocolor></a>,
   <a href="https://onlinelibrary.wiley.com/journal/13652575"><autocolor>Information Systems Journal (ISJ)</autocolor></a>
 </p>
 
